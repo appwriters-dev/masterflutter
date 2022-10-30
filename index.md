@@ -1,3 +1,8 @@
+---
+title: Master Flutter
+author: Damodar Lohani
+---
+
 # Dart Flutter Action Plan 2022
 This will be your master plan to learn and practice Flutter the awesome cross-platform UI framework for next 3 months. No worries you can take it on your own pace.
 
@@ -14,4 +19,3 @@ Hi, I’m your mentor, trainer Damodar Lohani here to give you secret formula to
 - Complete each steps in the order provided
 - But if you are brave and like to often wander, there might be hidden surprises inside each quest
 
-[Chapter 1: The Dart Intro](dart/ch_01.md)
