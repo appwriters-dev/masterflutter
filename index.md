@@ -1,6 +1,6 @@
 ---
-id: master-flutter 
-title: Master Flutter 
+id: master-flutter
+title: Master Flutter
 author: Damodar Lohani , Ambika Dulal
 ---
 
