@@ -1,5 +1,5 @@
 ---
-id: ch_03
+id: ch03-dependency-management
 title: Dependency Management in Dart
 ---
 
