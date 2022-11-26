@@ -1,5 +1,5 @@
 ---
-id: ls_02
+id: ls02-principles-of-oop
 title: Principles of OOP
 ---
 

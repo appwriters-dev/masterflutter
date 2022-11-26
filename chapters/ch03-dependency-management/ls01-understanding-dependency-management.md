@@ -1,5 +1,5 @@
 ---
-id: ls_01
+id: ls01-understanding-dependency-management
 title: Understanding Dependency Management
 ---
 

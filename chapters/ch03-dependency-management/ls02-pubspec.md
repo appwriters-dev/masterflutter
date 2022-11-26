@@ -1,6 +1,6 @@
 ---
-id: ls_02
-title: Pubspec
+id: ls02-pubspec
+title: Pubspec.yaml
 ---
 
 # Pubspec

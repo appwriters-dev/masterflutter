@@ -1,5 +1,5 @@
 ---
-id: ls_01
+id: ls01-introduction-to-oop
 title: Introduction to OOP
 ---
 
