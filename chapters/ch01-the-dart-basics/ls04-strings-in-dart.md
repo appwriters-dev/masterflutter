@@ -1,5 +1,5 @@
 ---
-id: ls_04
+id: ls04-strings-in-dart
 title: Strings in Dart
 ---
 

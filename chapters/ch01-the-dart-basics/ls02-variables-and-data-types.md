@@ -1,5 +1,5 @@
 ---
-id: ls_02
+id: ls02-variables-and-data-types
 title: Variables and Data Types
 ---
 

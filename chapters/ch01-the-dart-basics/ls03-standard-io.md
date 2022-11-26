@@ -1,5 +1,5 @@
 ---
-id: ls_03
+id: ls03-standard-io
 title: Standard Input/Output
 ---
 

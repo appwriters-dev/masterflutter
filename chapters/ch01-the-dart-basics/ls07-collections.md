@@ -1,5 +1,5 @@
 ---
-id: ls_07
+id: ls07-collections
 title: Collections
 ---
 Recommended Time: 2 days

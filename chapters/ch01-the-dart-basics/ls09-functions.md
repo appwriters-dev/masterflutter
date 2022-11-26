@@ -1,5 +1,5 @@
 ---
-id: ls_09
+id: ls09-functions
 title: Functions in Dart
 ---
 

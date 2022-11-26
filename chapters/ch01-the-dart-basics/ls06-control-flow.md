@@ -1,5 +1,5 @@
 ---
-id: ls_06
+id: ls06-control-flow
 title: Control Flow
 ---
 Recommended Time: 2 days

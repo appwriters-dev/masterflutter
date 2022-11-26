@@ -1,5 +1,5 @@
 ---
-id: ls_05
+id: ls05-operators
 title: Operators
 ---
 
