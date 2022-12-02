@@ -30,6 +30,5 @@ In this lesson, we will learn how to handle REST API in Dart. We will use the [h
 ## Resources
 
 - [http](https://pub.dev/packages/http)
-- [DartPad](https://dartpad.dev)
 - [DartPad: Futures](https://dartpad.dev/futures)
 - [DartPad: Async and Await](https://dartpad.dev/async-await)
