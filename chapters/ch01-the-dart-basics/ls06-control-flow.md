@@ -2,6 +2,7 @@
 id: ls06-control-flow
 title: Control Flow
 ---
+
 Recommended Time: 2 days
 
 Now that you know operators and how to manipulate data. In this lesson we learn how to make decisions, loops and more. This lesson will teach you to manipulate the flow of execution of your program.
@@ -25,5 +26,6 @@ Now that you know operators and how to manipulate data. In this lesson we learn 
     Write a program that requests user for a value and prints out whether the value is a [pallindrome](https://en.wikipedia.org/wiki/Palindrome) or not.
 
 ## Resources
+
 - [Dart Control Flow Statement](https://www.javatpoint.com/dart-control-flow-statement)
 - [Dart Control Flow Statement](https://medium.com/@MrArc/dart-control-flow-statements-d2d6005604)

@@ -7,21 +7,21 @@ Asynchronous programming is a programming paradigm that enables a program to do 
 
 In Dart and Flutter asynchronous programming is used for a variety of tasks, such as:
 
-* Making HTTP requests to a REST API
-* Reading and writing files
-* Doing heavy calculations
-* Performing long running tasks, such as animations
+- Making HTTP requests to a REST API
+- Reading and writing files
+- Doing heavy calculations
+- Performing long running tasks, such as animations
 
 In this chapter, we will learn about asynchronous programming in Dart and Flutter. We will learn about the `Future` class, the `async` and `await` keywords, and the `Stream` class.
 
 ## Projects
 
 1. Every 5 Second
-   
+
    Write a program that prints current time after 5 seconds.
 
 2. Read a File
-   
+
    Write a Program that reads a text file and prints the contents of the file to the console
 
 ## Resources

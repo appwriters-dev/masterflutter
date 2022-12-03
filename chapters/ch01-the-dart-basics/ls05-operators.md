@@ -18,14 +18,13 @@ Write a program to check whether two String a and b are equivalent not not.
 - print (a==b)
 - output is false
 
-### 2.check one nullable variable and place default value for that 
+### 2.check one nullable variable and place default value for that
 
 Write a program to check one nullable variable and place default value for that
 
 - make one String type variable like, enterName can be nullable (final String? enterName )
 - print a enterName by using ?? conditional operator (like, print(enterName ?? "your name"))
 - result is your name
-
 
 ## Resources
 

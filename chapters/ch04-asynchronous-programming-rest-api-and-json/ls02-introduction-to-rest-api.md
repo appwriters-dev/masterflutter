@@ -16,43 +16,43 @@ Let's take a look at a simple REST API example. We will use the [JSONPlaceholder
 ## Projects
 
 1. Write an Article about REST API
-   
+
    Write an article about REST API. The article should include the following:
 
-    - What is REST API?
-    - What are the advantages and disadvantages of REST API?
-    - What are the disadvantages of REST API?
-    - What are the most popular REST API testing tools?
-    - What are the most popular REST API documentation tools?
+   - What is REST API?
+   - What are the advantages and disadvantages of REST API?
+   - What are the disadvantages of REST API?
+   - What are the most popular REST API testing tools?
+   - What are the most popular REST API documentation tools?
 
 2. On Paper or Whiteboard, Draw a Diagram of a REST API
-   
+
    Draw a diagram of a REST API. The diagram should include the following:
 
-    - The client
-    - The server
-    - The HTTP request
-    - The HTTP response
-    - The data
+   - The client
+   - The server
+   - The HTTP request
+   - The HTTP response
+   - The data
 
 3. Design a REST API
-   
+
    Design a REST API on paper without actually programming. The API should include the following:
 
-    - At least 3 endpoints
-    - At least 3 HTTP methods
-    - At least 3 HTTP status codes
-    - At least 3 data types
+   - At least 3 endpoints
+   - At least 3 HTTP methods
+   - At least 3 HTTP status codes
+   - At least 3 data types
 
 4. JSON representation
-   
-    Create a JSON representation of a your friend. The JSON should include the following:
-    
-     - name
-     - age
-     - address
-     - phone number
-     - email address
+
+   Create a JSON representation of a your friend. The JSON should include the following:
+
+   - name
+   - age
+   - address
+   - phone number
+   - email address
 
 ## Resources
 

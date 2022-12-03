@@ -10,10 +10,10 @@ The pubspec.yaml file is the configuration file for the pub tool. The pubspec.ya
 ## Projects
 
 1. Write an Article about the pubspec.yaml file of a Dart project and Publish and share it in social media
-    - What is the pubspec.yaml file?
-    - What is the purpose of the pubspec.yaml file?
-    - What is the structure of the pubspec.yaml file?
-    - Meaning of each field in the pubspec.yaml file
+   - What is the pubspec.yaml file?
+   - What is the purpose of the pubspec.yaml file?
+   - What is the structure of the pubspec.yaml file?
+   - Meaning of each field in the pubspec.yaml file
 
 ## Resources
 

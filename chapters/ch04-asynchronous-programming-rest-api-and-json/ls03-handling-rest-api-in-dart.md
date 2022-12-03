@@ -8,24 +8,24 @@ In this lesson, we will learn how to handle REST API in Dart. We will use the [h
 ## Projects
 
 1. Pokemon API
-   
-    Write a program to fetch data from the [Pokemon API](https://pokeapi.co/docs/v2) and display the data of your favorite pokemon in the console.
+
+   Write a program to fetch data from the [Pokemon API](https://pokeapi.co/docs/v2) and display the data of your favorite pokemon in the console.
 
 2. Movie Searcher
 
-    Write a program uses [TMDB movie API](https://developers.themoviedb.org/3) to provide following functionalities:
+   Write a program uses [TMDB movie API](https://developers.themoviedb.org/3) to provide following functionalities:
 
-    - will be a CLI program
-    - Search movie details by title
-    - Get list of upcoming movies
-    - Get list of top rated movies
-    - Get list of popular movies
+   - will be a CLI program
+   - Search movie details by title
+   - Get list of upcoming movies
+   - Get list of top rated movies
+   - Get list of popular movies
 
-    Add more functionalities as you like
+   Add more functionalities as you like
 
 3. Publish all above project
 
-    Publish all the above projects to [GitHub](https://github.com) repositories. Make sure to add a `README.md` file to each project. Enhance and modify the project as you may like.
+   Publish all the above projects to [GitHub](https://github.com) repositories. Make sure to add a `README.md` file to each project. Enhance and modify the project as you may like.
 
 ## Resources
 

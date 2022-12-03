@@ -20,4 +20,3 @@ This enables you to correct these issues before deploying your app.
 - [Dart Null Safety](https://dart.dev/null-safety)
 - [Understanding Null Safety](https://dart.dev/null-safety/understanding-null-safety)
 - [Sound Null Safety](https://dart.dev/null-safety#:~:text=Null%20safety%20prevents%20errors%20that,can%20be%20difficult%20to%20debug.)
-

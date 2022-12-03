@@ -2,6 +2,7 @@
 id: ls07-collections
 title: Collections
 ---
+
 Recommended Time: 2 days
 
 Collections are derived data structures.
@@ -11,7 +12,7 @@ significant foundation upon which systems of varying complexity are built. With 
 the Flutter framework driving the rapid growth of Dart, it is becoming increasingly important to
 understand the data structures available in this language and how to use them.
 
-## Projects 
+## Projects
 
 ## Resources
 
