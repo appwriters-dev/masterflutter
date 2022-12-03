@@ -14,8 +14,8 @@ understand the data structures available in this language and how to use them.
 ## Projects
 
 ### 1. Enum
-
-      Write a enum collection for seasons , like enum seasons {summer , winter, autum , spring  } and print your favourate seasons from that enum.
+    
+    Write a enum Season which can have values as different seasons. And write a program that prints your favorite season using the enum.
 
 ### 2. List
 
