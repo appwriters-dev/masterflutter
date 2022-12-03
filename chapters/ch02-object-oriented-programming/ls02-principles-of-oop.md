@@ -5,16 +5,13 @@ title: Principles of OOP
 
 ## Encapsulation
 
-Encapsulation is the process of hiding the implementation details of a class from the outside world. The only way to interact with an object is through its public interface. This means that the object's internal state is hidden from the outside world. The object's internal state can only be changed by calling public methods. This is a very powerful concept because it allows us to change the implementation of a class without affecting the code that uses it.
-
+Encapsulation is the process of concealing a class's implementation details from the outside world. The public interface is the only way to interact with an object. This means that the internal state of the object is hidden from the outside world. The internal state of the object can only be changed by calling public methods. This is a very powerful concept because it allows us to change a class's implementation without affecting the code that uses it.
 ## Abstraction
 
-Abstraction is the process of hiding the implementation details of a class from the outside world. The only way to interact with an object is through its public interface. This means that the object's internal state is hidden from the outside world. The object's internal state can only be changed by calling public methods. This is a very powerful concept because it allows us to change the implementation of a class without affecting the code that uses it.
-
+Abstraction is the process of concealing a class's implementation details from the outside world. The public interface is the only way to interact with an object. This means that the internal state of the object is hidden from the outside world. The internal state of the object can only be changed by calling public methods. This is a very powerful concept because it allows us to change a class's implementation without affecting the code that uses it.
 ## Inheritance
 
-Inheritance is the process of creating a new class from an existing class. The new class is called a subclass, and the existing class is called a superclass. The subclass inherits all the public and protected methods from the superclass. In addition, it can have its own methods in addition to the superclass's methods. Inheritance is a powerful concept because it allows us to create a new class that is based on an existing class, thus reducing the amount of code that we need to write.
-
+The process of creating a new class from an existing class is known as inheritance. The new class is referred to as a subclass, and the existing class is referred to as a superclass. The subclass inherits all of the superclass's public and protected methods. It can also have its own methods in addition to the methods of the superclass. Inheritance is a powerful concept because it allows us to create a new class based on an existing class, reducing the amount of code we must write.
 ## Resources
 
 - [Principles of OOP](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
