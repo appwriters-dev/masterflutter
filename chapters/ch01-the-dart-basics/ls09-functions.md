@@ -21,7 +21,7 @@ Write a function that returns the sum of two numbers.
 
 - Accept two numbers as parameters
 - Return sum of the given input
-  
+
 ### 2. Reverse
 
 Write a function that returns the reverse of a string.

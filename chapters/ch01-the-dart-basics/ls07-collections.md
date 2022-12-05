@@ -2,6 +2,7 @@
 id: ls07-collections
 title: Collections
 ---
+
 Recommended Time: 2 days
 
 Collections are derived data structures.

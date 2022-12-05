@@ -3,7 +3,7 @@ id: ls01-understanding-dependency-management
 title: Understanding Dependency Management
 ---
 
-Dependency management is integral part of modern programming.It is a process of managing the dependencies of a project. A dependency is a piece of code that is required by the project to run. It can be a library, a framework, a tool, or any other piece of code that is required by the project to run.
+Dependency management is integral part of modern programming. It is a process of managing the dependencies of a project. A dependency is a piece of code that is required by the project to run. It can be a library, a framework, a tool, or any other piece of code that is required by the project to run.
 
 ## Projects
 
