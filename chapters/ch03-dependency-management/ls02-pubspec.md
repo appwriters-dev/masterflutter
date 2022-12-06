@@ -9,11 +9,18 @@ The pubspec.yaml file is the configuration file for the pub tool. The pubspec.ya
 
 ## Projects
 
-1. Write an Article about the pubspec.yaml file of a Dart project and Publish and share it in social media
-   - What is the pubspec.yaml file?
-   - What is the purpose of the pubspec.yaml file?
-   - What is the structure of the pubspec.yaml file?
-   - Meaning of each field in the pubspec.yaml file
+### 1. Dart dependencies in pubspec.yaml
+
+Write a program that uses the `dependencies` and `dev_dependencies` sections of the `pubspec.yaml` file to specify the dependencies of your project. This project will help you learn how to use the `pubspec.yaml` file to declare the dependencies of your project, and how to use the `pub get` and `pub upgrade` commands to manage the dependencies of your project.
+
+### 2. Pubspec Article
+
+Write an Article about the pubspec.yaml file of a Dart project and Publish and share it in social media
+
+- What is the pubspec.yaml file?
+- What is the purpose of the pubspec.yaml file?
+- What is the structure of the pubspec.yaml file?
+- Meaning of each field in the pubspec.yaml file
 
 ## Resources
 

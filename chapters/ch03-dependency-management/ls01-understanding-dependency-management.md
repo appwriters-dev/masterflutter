@@ -7,6 +7,14 @@ Dependency management is integral part of modern programming. It is a process of
 
 ## Projects
 
+### 1. Pub CLI
+
+Create a simple program that uses the pub command-line tool to add, remove, and list the dependencies of your project. This project will help you understand the basics of using pub to manage the dependencies of your Dart project.
+
+### 2. Using Dependency
+
+Create a simple program that uses the `package:` URI syntax to import and use a package from the Dart package repository.
+
 ## Resources
 
 - [Dart dependencies](https://dart.dev/tools/pub/dependencies)
