@@ -1,9 +1,10 @@
 ---
 id: ls03-standard-io
 title: Standard Input/Output
+summary: In this lesson, you will go over Dart's standard input and output. You will learn how to accept user input and display output in various formats.
 ---
 
-In this lesson, we'll go over Dart's standard input and output. We will learn how to accept user input and display output in various formats.
+In this lesson, you will go over Dart's standard input and output. You will learn how to accept user input and display output in various formats.
 
 ## Projects
 

@@ -1,10 +1,10 @@
 ---
 id: ls09-functions
 title: Functions in Dart
+summary: A function in Dart is a block of code that performs a specific task and can be called or invoked from other parts of the program. Functions can take zero or more parameters and can return a value. They are used to organize and modularize code, making it easier to read, maintain, and reuse.
 ---
 
-Functions are building blocks of modern programs. Once you know the basics of the programming, you
-should understands functions and different terminologies associated with it.
+A function in Dart is a block of code that performs a specific task and can be called or invoked from other parts of the program. Functions can take zero or more parameters and can return a value. They are used to organize and modularize code, making it easier to read, maintain, and reuse.
 
 ## Note :
 

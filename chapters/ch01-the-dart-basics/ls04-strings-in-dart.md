@@ -1,6 +1,7 @@
 ---
 id: ls04-strings-in-dart
 title: Strings in Dart
+description: Strings are one of the most important data types in programming. In this lesson, you will learn about strings in Dart. You will also learn how to manipulate strings in Dart.
 ---
 
 Recommended time: 4 days

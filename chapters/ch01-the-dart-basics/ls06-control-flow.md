@@ -1,6 +1,7 @@
 ---
 id: ls06-control-flow
 title: Control Flow
+summary: Control flow allows you to make decisions and loops in your program. This lesson will teach you to manipulate the flow of execution of your Dart program.
 ---
 
 Recommended Time: 2 days

@@ -1,6 +1,7 @@
 ---
 id: ls01-introducing-dart
 title: Introducing Dart
+summary: In this lesson you will just get to know the Dart programming language briefly. If you have never done programming previously, don’t be overwhelmed or intimidated. We have further guides and lessons to prepare for you. Just spend more time on first chapter that way things will get easier and easier further you go.
 ---
 
 Recommended Time: 1 Day (But learn at your one pace)

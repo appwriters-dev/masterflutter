@@ -1,16 +1,22 @@
 ---
 id: ls07-collections
 title: Collections
+summary: Dart is a programming language that provides several built-in collections for storing and managing groups of objects. These collections include lists, sets, and maps, which are useful for storing and organizing data in different ways.
 ---
 
 Recommended Time: 2 days
 
-Collections are derived data structures.
+Dart is a programming language that provides several built-in collections, which are data structures that store and manage collections of objects. These collections include lists, sets, and maps.
 
-Data structures are central to software development and, by extension, computer science. They are a
-significant foundation upon which systems of varying complexity are built. With the popularity of
-the Flutter framework driving the rapid growth of Dart, it is becoming increasingly important to
-understand the data structures available in this language and how to use them.
+A list is an ordered collection of objects, where each object has a specific index. Lists are useful for storing collections of data that need to be accessed by their index, such as the elements of an array.
+
+A set is an unordered collection of unique objects. Sets are useful for storing collections of data that do not have a specific order, such as the unique values in a list.
+
+A map is a collection of key-value pairs, where each key is associated with a specific value. Maps are useful for storing collections of data that need to be accessed by their keys, such as a dictionary or lookup table.
+
+Dart collections are versatile and powerful, and can be used in a variety of applications. They support common operations such as adding, removing, and searching for elements, as well as more advanced operations such as sorting and filtering.
+
+In summary, Dart is a programming language that provides several built-in collections for storing and managing groups of objects. These collections include lists, sets, and maps, which are useful for storing and organizing data in different ways. Lists are ordered collections of objects, sets are unordered collections of unique objects, and maps are collections of key-value pairs. Dart collections support common operations such as adding, removing, and searching for elements, as well as more advanced operations such as sorting and filtering.
 
 ## Projects
 
