@@ -16,13 +16,17 @@ In this chapter, we will learn about asynchronous programming in Dart and Flutte
 
 ## Projects
 
-1. Every 5 Second
+### 1. Every 5 Second
 
-   Write a program that prints current time after 5 seconds.
+Write a program that prints current time after 5 seconds.
 
-2. Read a File
+### 2. Read a File
 
-   Write a Program that reads a text file and prints the contents of the file to the console
+Write a Program that reads a text file and prints the contents of the file to the console
+
+### 3. Multiple Futures
+
+Write a program that uses the Future class to perform multiple asynchronous operations in parallel, and then uses the Future.wait() method to wait for all the operations to complete before continuing.
 
 ## Resources
 
