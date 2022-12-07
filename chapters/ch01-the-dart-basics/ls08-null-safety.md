@@ -15,18 +15,22 @@ This enables you to correct these issues before deploying your app.
 
 ## Projects
 
-### 1. Use ? non-nullable operator
-    Write a program which containing fullName,address and phoneNumber with non-nullable iniliazation and add values for given parameter inside build context or init method and then print parameter.
-     
-### 2. Use ! operator
-     Write a program which have multiple parameter like above project 1 and guarented that values are not null by using ! operator ,and print that parameter .
+### 1. Basic Null Safety
 
-### 3. late 
-     Write a program by using late modifier and assign values that and print final variable.
+Create a simple program that declares and initializes a few variables, including some that are nullable and some that are non-nullable. 
+     
+### 2. Null coalescing operator (??)
+
+Write a function that accepts optional `String` parameter and returns the value of the parameter if it is not null, otherwise it returns the string "Default value" using the null coalescing operator.
+
+### 3. late
+
+Write a program by using late modifier and assign values that and print final variable.
 
 ## Remember things : 
-     - When possible, try to create non-nullable variables, which are guaranteed not to be null at compile time.
-     - If you know a nullable expression will not be null, you can use the ! operator to assign it to a non-nullable variable.
+
+- When possible, try to create non-nullable variables, which are guaranteed not to be null at compile time.
+- If you know a nullable expression will not be null, you can use the ! operator to assign it to a non-nullable variable.
 
 ## Resources
 

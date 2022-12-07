@@ -18,6 +18,12 @@ Given a input paragraph of text, count and print the number of words in that tex
 - Count number of words
 - Print number of words
 
+### 2. Concatenate strings
+
+Write a program that uses string concatenation to combine several strings into a single string, and then prints the result to the console.
+
+> **Note:** for completing projects in this lesson, you might have to look at few resources on next two lessons as well (operators and control flow).
+
 ## Resources
 
 - [Dart String Type](https://api.dart.dev/stable/2.18.4/dart-core/String-class.html)

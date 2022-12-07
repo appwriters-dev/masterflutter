@@ -18,7 +18,7 @@ understand the data structures available in this language and how to use them.
     
 Write a enum Season which can have values as different seasons. And write a program that prints your favorite season using the enum.
 
-### 2. List
+### 2. Quiz
 
 Create a quiz app that allows users to answer multiple-choice questions. Use a combination of Map and List to store the questions and options for each question, and allow the user to select one of the options.
 
@@ -60,7 +60,7 @@ void main() {
     print(car);
 }
 
-    Try all the methods avaiable on the Map and their attributes too for the practice purpose.
+Try all the methods avaiable on the Map and their attributes too for the practice purpose.
 
 ## Resources
 

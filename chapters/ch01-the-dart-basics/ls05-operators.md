@@ -10,21 +10,22 @@ Dart includes a large number of built-in operators for performing various types 
 
 ## Projects
 
-### 1.check two strings are equivalent or not
+### 1. Get Sum of Two Numbers
 
-Write a program to check whether two String a and b are equivalent not not.
+Write a program to calculate sum of two numbers.
 
-- store a has a and b has b
-- print (a==b)
-- output is false
+- Store both numbers in variables
+- Store the answer in a variable and display the answer.
 
-### 2.check one nullable variable and place default value for that
+### 2. Temperature Converter
 
-Write a program to check one nullable variable and place default value for that
+Write a program that converts a temperature from Fahrenheit to Celsius, and then prints the result to the console. The formula for converting a temperature from Fahrenheit to Celsius is:
 
-- make one String type variable like, enterName can be nullable (final String? enterName )
-- print a enterName by using ?? conditional operator (like, print(enterName ?? "your name"))
-- result is your name
+```
+C = (F - 32) * 5/9
+```
+
+> **Note:** Don't forget to post your solutions to your GitHub profile and share.
 
 ## Resources
 

@@ -28,12 +28,9 @@ Use resources for more details about the variables and data type in dart.
 
 ## Projects
 
-### 1. Get Sum of Two Numbers
+### 1. Initialize Variables
 
-Write a program to calculate sum of two numbers.
-
-- Store both numbers in variables
-- Store the answer in a variable and display the answer.
+Create a simple program that declares and initializes a few variables of different data types (such as a string, integer, and boolean), and then prints them to the console. 
 
 ### 1. Calculate BMI
 
