@@ -31,7 +31,7 @@ Use resources for more details about the variables and data type in dart.
 
 ### 1. Initialize Variables
 
-Create a simple program that declares and initializes a few variables of different data types (such as a string, integer, and boolean), and then prints them to the console. 
+Create a simple program that declares and initializes a few variables of different data types (such as a string, integer, and boolean), and then prints them to the console.
 
 ### 1. Calculate BMI
 

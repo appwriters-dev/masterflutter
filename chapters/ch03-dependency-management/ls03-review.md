@@ -13,5 +13,5 @@ description: Use the following questions to review the concepts of dependency ma
 5. What are dependency overrides?
 6. What are dependency constraints?
 7. What is a pubspec.yaml file?
-9. What is a pubspec.lock file?
-10. What are different attributes of pubspec.yaml file?
+8. What is a pubspec.lock file?
+9. What are different attributes of pubspec.yaml file?

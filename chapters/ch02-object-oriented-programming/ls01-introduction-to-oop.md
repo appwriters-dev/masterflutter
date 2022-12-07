@@ -18,7 +18,7 @@ Projects are a great way to learn. Here are some projects that you can try to ge
 
 Create a simple program that defines a Person class with properties for a person's name and age, and then creates a few instances of the Person class. This project will help you understand the basics of defining classes and creating objects in Dart.
 
-### 2.  Calculator
+### 2. Calculator
 
 Define a calculator class that has
 
@@ -28,7 +28,7 @@ Define a calculator class that has
 - all methods perform the desired calculation to the result and store the result
 - Create a test program with main method that initializes the calculator and performs operations
 
-### 2.  Coordinate
+### 2. Coordinate
 
 Create a class called `Point` allowing to manipulate a point of a plane (x,y).
 
@@ -41,10 +41,11 @@ You will provide:
 The coordinates of the point should be private data members.
 
 Write separate files:
+
 - A source file constituting the declaration of the class.
 - A small test program (main) declaring a point, displaying it, moving it around and showing it again.
 
-### 3.  Vector3D
+### 3. Vector3D
 
 The class "vector3D" is defined as follows:
 

@@ -18,8 +18,8 @@ In summary, null safety is a feature of the Dart programming language that preve
 
 ### 1. Basic Null Safety
 
-Create a simple program that declares and initializes a few variables, including some that are nullable and some that are non-nullable. 
-     
+Create a simple program that declares and initializes a few variables, including some that are nullable and some that are non-nullable.
+
 ### 2. Null coalescing operator (??)
 
 Write a function that accepts optional `String` parameter and returns the value of the parameter if it is not null, otherwise it returns the string "Default value" using the null coalescing operator.

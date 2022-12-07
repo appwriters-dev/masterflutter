@@ -24,11 +24,11 @@ Create a simple game that uses classes to represent different game entities, suc
 
 ### 2. Abstract Class
 
- - Create an abstract class called `ArticleDataSource` with method `getArticle(String id)`, and `deleteArticle(String id)`.
- - Create a class called `ArticleLocalDataSource` and implement the `ArticleDataSource`
- - Implement each method and print operation with the provided id. For example, calling `getArticle('dart-today-and-tomorrow')` should print `Get dart-today-and-tomorrow`
- - Add a factory constructor to `ArticleLocalDataSource` and return the object of `ArticleLocalDataSource`.
- - Instantiate `ArticleLocalDataSource` using the factory constructor and call each methods on the object.
+- Create an abstract class called `ArticleDataSource` with method `getArticle(String id)`, and `deleteArticle(String id)`.
+- Create a class called `ArticleLocalDataSource` and implement the `ArticleDataSource`
+- Implement each method and print operation with the provided id. For example, calling `getArticle('dart-today-and-tomorrow')` should print `Get dart-today-and-tomorrow`
+- Add a factory constructor to `ArticleLocalDataSource` and return the object of `ArticleLocalDataSource`.
+- Instantiate `ArticleLocalDataSource` using the factory constructor and call each methods on the object.
 
 ### 3. Color Points
 

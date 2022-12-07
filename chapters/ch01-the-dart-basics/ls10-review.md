@@ -36,12 +36,12 @@ Try to answer these questions, if you fail, you should revisit the appropriate l
 
 Use these projects to revisit what you've learned so far and to practice your skills. If you get confused, you should revisit the appropriate lessons and the resources.
 
-> **Note:** publish these projects to GitHub and share the links in your social media. 
+> **Note:** publish these projects to GitHub and share the links in your social media.
 
 1. Write a program that reads a list of numbers from the standard input, and then prints the sum of the numbers to the standard output.
 2. Create a simple calculator program that allows the user to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 3. Write a program that generates a random password based on user-specified criteria, such as length and the inclusion of special characters.
 4. Create a simple to-do list program that allows the user to add, remove, and view their tasks.
-6. Create a simple program that uses the Dart **`http`** library to make an HTTP request and print the response to the console.
-7. Create a simple quiz game that asks the user a series of multiple-choice questions and keeps track of their score.
-8. Create a simple calculator program that allows the user to perform basic arithmetic operations (such as addition, subtraction, multiplication, and division) on two numbers. **Hint:** you can use the **`switch`** statement to implement this.
+5. Create a simple program that uses the Dart **`http`** library to make an HTTP request and print the response to the console.
+6. Create a simple quiz game that asks the user a series of multiple-choice questions and keeps track of their score.
+7. Create a simple calculator program that allows the user to perform basic arithmetic operations (such as addition, subtraction, multiplication, and division) on two numbers. **Hint:** you can use the **`switch`** statement to implement this.
