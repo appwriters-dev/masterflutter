@@ -22,9 +22,9 @@ understand the data structures available in this language and how to use them.
 
 Create a quiz app that allows users to answer multiple-choice questions. Use a combination of Map and List to store the questions and options for each question, and allow the user to select one of the options.
 
-### 3. Set
+### 3. Unique Random Number
      
-    Understand the Types of set from the given resource and write a program by using add and addAll functions and add values and print from there.
+Create a simple random number generator. Use a Set to store the numbers that have been generated, and make sure that each number is unique.
 
 ### 4. Shopping List
 
