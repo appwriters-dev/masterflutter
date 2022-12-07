@@ -1,6 +1,7 @@
 ---
 id: ls02-pubspec
 title: Pubspec.yaml
+description: The pubspec.yaml file is the configuration file for the pub tool. The pubspec.yaml file is located in the root of the project and contains information like name, version, dependencies, and more.
 ---
 
 # Pubspec

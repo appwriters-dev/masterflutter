@@ -1,7 +1,7 @@
 ---
 id: ls08-null-safety
 title: Null Safety in Dart
-summary: Null safety is a feature of the Dart programming language that prevents null reference exceptions by ensuring that variables cannot be null unless explicitly allowed. This is achieved through the use of nullable and non-nullable types, which allow developers to specify whether a variable can be null or not.
+description: Null safety is a feature of the Dart programming language that prevents null reference exceptions by ensuring that variables cannot be null unless explicitly allowed. This is achieved through the use of nullable and non-nullable types, which allow developers to specify whether a variable can be null or not.
 ---
 
 Null safety is a feature of the Dart programming language that prevents null reference exceptions by ensuring that variables cannot be null unless explicitly allowed. This is achieved through the use of nullable and non-nullable types, which allow developers to specify whether a variable can be null or not.

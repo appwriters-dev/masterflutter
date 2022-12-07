@@ -1,6 +1,7 @@
 ---
 id: ls03-review
 title: Review
+description: Use the following questions to review the concepts of dependency management.
 ---
 
 ## Questions

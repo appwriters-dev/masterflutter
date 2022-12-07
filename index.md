@@ -2,6 +2,7 @@
 id: master-flutter
 title: Master Flutter
 author: Damodar Lohani , Ambika Dulal
+description: This will be your master plan to learn and practice Flutter the awesome cross-platform UI framework for next 3 months. No worries you can take it on your own pace. You can use this as a reference or a roadmap to learn Flutter and Dart.
 ---
 
 This will be your master plan to learn and practice Flutter the awesome cross-platform UI framework for next 3 months. No worries you can take it on your own pace.

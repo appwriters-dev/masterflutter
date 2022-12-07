@@ -1,6 +1,7 @@
 ---
 id: ls01-introduction-to-oop
 title: Introduction to OOP
+description: Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects," which can contain data in the form of fields, which are commonly referred to as attributes, and code in the form of procedures, which are commonly referred to as methods. A class is an object's blueprint. Class can be compared to a labeled sketch of a parrot. It includes information such as the name, colors, and size.
 ---
 
 ## What is OOP?

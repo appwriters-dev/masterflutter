@@ -1,7 +1,7 @@
 ---
 id: ls10-review
 title: Review
-summary: Review concepts of basic Dart programming using these questions and projects.
+description: Review concepts of basic Dart programming using these questions and projects.
 ---
 
 ## Questions

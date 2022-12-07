@@ -1,6 +1,7 @@
 ---
 id: ls02-principles-of-oop
 title: Principles of OOP
+description: The principles of OOP are designed to make it easier to create complex, modular, and scalable programs by organizing code into small, reusable units called classes. Principles like encapsulation, abstraction, inheritance, help to reduce complexity and improve the maintainability and reusability of code.
 ---
 
 ## Encapsulation

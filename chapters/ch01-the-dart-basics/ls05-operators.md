@@ -1,7 +1,7 @@
 ---
 id: ls05-operators
 title: Operators
-summary: Operators are an essential part of programming. They enable us to manipulate data in a variety of ways. Dart includes a large number of built-in operators for performing various types of operations. Unary operators take only one operand, whereas binary operators take two operands with operators.
+description: Operators are an essential part of programming. They enable us to manipulate data in a variety of ways. Dart includes a large number of built-in operators for performing various types of operations. Unary operators take only one operand, whereas binary operators take two operands with operators.
 ---
 
 Recommended Time: 1 day

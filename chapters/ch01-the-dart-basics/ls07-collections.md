@@ -1,7 +1,7 @@
 ---
 id: ls07-collections
 title: Collections
-summary: Dart is a programming language that provides several built-in collections for storing and managing groups of objects. These collections include lists, sets, and maps, which are useful for storing and organizing data in different ways.
+description: Dart is a programming language that provides several built-in collections for storing and managing groups of objects. These collections include lists, sets, and maps, which are useful for storing and organizing data in different ways.
 ---
 
 Recommended Time: 2 days

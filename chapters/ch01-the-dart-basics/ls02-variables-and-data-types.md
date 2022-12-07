@@ -1,7 +1,7 @@
 ---
 id: ls02-variables-and-data-types
 title: Variables and Data Types
-summary: In this lesson, you will learn about variables and data types in Dart. You will also learn how to declare and initialize variables and how to use them in your programs.
+description: In this lesson, you will learn about variables and data types in Dart. You will also learn how to declare and initialize variables and how to use them in your programs.
 ---
 
 Recommended Time: 2 days

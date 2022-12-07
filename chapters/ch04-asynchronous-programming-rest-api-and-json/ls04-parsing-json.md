@@ -1,6 +1,7 @@
 ---
 id: ls04-parsing-json
 title: Parsing JSON
+description: Learn how to parse JSON data into Dart objects and use them in program to make it more readable and maintainable.
 ---
 
 In the previous chapter, we learned how to make a request to a REST API and get a response. In this chapter, we will learn how to parse the response and extract the data we need. We will use the [JSON](https://www.json.org/json-en.html) format to represent the data.

@@ -1,6 +1,7 @@
 ---
 id: ls02-introduction-to-rest-api
 title: Introduction to REST API
+description: REST (Representational State Transfer) API is a type of web service that uses the HTTP protocol to allow client applications to access and manipulate data on a server. REST APIs are popular because they are easy to use, scalable, and widely supported by a variety of client applications.
 ---
 
 REST API is a set of rules that developers follow to create APIs. REST stands for Representational State Transfer. It is an architectural style for designing networked applications. REST APIs use HTTP requests to GET, PUT, POST and DELETE data. REST APIs are stateless, which means that the server does not keep any data (state) between two requests. This makes REST APIs scalable and easy to maintain. REST APIs are also easy to understand and use. REST APIs are the most popular way to create APIs.

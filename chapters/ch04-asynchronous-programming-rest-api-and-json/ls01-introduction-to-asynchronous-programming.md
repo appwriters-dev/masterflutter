@@ -1,6 +1,7 @@
 ---
 id: ls01-introduction-to-asynchronous-programming
 title: Introduction to Asynchronous Programming
+description: Asynchronous programming is a programming paradigm that enables a program to do more than one thing at a time. In asynchronous programming, long-running tasks run in the background without blocking the main execution thread. Asynchronous programming is very useful for performing I/O operations, such as accessing the network and accessing the file system. Dart uses Future, Stream, and async/await to implement asynchronous programming.
 ---
 
 Asynchronous programming is a programming paradigm that enables a program to do more than one thing at a time. In asynchronous programming, long-running tasks run in the background without blocking the main execution thread. Asynchronous programming is very useful for performing I/O operations, such as accessing the network and accessing the file system. Asynchronous programming is also useful for performing time-consuming operations, such as image processing and mathematical calculations.

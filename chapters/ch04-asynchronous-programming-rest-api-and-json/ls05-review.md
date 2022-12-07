@@ -1,6 +1,7 @@
 ---
 id: ls05-review
 title: Review
+description: Using these questions and projects review the concepts of Asynchronous programming, REST API, JSON and how to handle those in Dart.
 ---
 
 ## Questions

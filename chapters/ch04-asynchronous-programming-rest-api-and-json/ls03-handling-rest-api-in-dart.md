@@ -1,6 +1,7 @@
 ---
 id: ls03-handling-rest-api-in-dart
 title: Handling REST API in Dart
+description: Learn how to handle REST API in Dart by building projects like Pokemon searcher, Movie searcher, and more. You will learn to use the http package and Future, async, and await in Dart.
 ---
 
 In this lesson, we will learn how to handle REST API in Dart. We will use the [http](https://pub.dev/packages/http) package to handle REST API in Dart. In the process we will also gain more insight into `Future`, `async`, and `await`.

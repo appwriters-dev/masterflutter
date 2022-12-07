@@ -1,6 +1,7 @@
 ---
 id: ch01-the-dart-basics
 title: The Dart Basics
+description: Learn the very basics of Dart programming language and programming concepts. If you are a beginner programmer, spend more in this chapter to get a strong foundation. You will learn the concepts like variables, data types, operators, functions and more. 
 ---
 
 The first week will introduce you to the Dart programming language and its basic functionalities, which are powered by the flutter framework. To move on to the next chapters, you must finish this week with flying colors. You can complete this chapter several times so that your foundation is strong enough to handle other chapters.
