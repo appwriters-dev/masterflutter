@@ -26,12 +26,9 @@ Create a quiz app that allows users to answer multiple-choice questions. Use a c
      
     Understand the Types of set from the given resource and write a program by using add and addAll functions and add values and print from there.
 
-### 4. Map
+### 4. Shopping List
 
-The Map object is a straightforward key/value pair. A map's keys and values can be of any type. A map is a living collection. In other words, Maps can expand and contract at runtime.There are two ways to declare maps.
-
-- Making Use of Map Literals
-- Making Use of a Map Constructor
+Create a shopping list app that allows users to add and remove items from a list. Use a Set to store the items in the list and ensure that each item only appears once in the list.
 
 ### 5. Understand Map Usage
     
