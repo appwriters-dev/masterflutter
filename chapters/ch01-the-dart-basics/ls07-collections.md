@@ -65,10 +65,11 @@ void main() {
     car.clear();
     print(car);
 }
+```
 
 Try all the methods avaiable on the Map and their attributes too for the practice purpose.
 
 ## Resources
 
 - [data structures in Dart](https://medium.com/@daria.orlova/data-structures-with-dart-set-a034bc7b7d4a)
-```
+
