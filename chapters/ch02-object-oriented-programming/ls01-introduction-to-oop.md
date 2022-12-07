@@ -9,19 +9,6 @@ Object-oriented programming (OOP) is a programming paradigm based on the concept
 
 A class is a blueprint for the object. We can think of class as an sketch of a parrot with labels. It contains all the details about the name, colors, size etc. Based on these descriptions, we can study about the parrot. Here, a parrot is an object. An object (instance) is an instantiation of a class. When a class is defined, no memory or storage is allocated but when it is instantiated (i.e. an object is created) memory is allocated. The process of creating this object is called instantiation. The newly created object is called an instance of the class. The instance inherits all the variables and methods from the class but it also has its own unique set of variables and methods. In other words, each object contains an independent copy of the instance variables defined in the class.
 
-## Resources
-
-- [What is Object-oriented programming](https://www.educative.io/blog/object-oriented-programming)
-- [OOP Primer](https://www.codeguru.com/visual-basic/an-oop-primer/)
-- [OOP Concepts a Primer](https://www.cs.princeton.edu/courses/archive/spr96/cs333/java/tutorial/java/objects/index.html)
-- [Class vs Object](https://www.youtube.com/watch?v=BM9tPve8T1o)
-- [OOP in 8 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8)
-- [Class in Dart](https://dart-tutorial.com/object-oriented-programming/class-in-dart/)
-- [Objects in Dart](https://dart-tutorial.com/object-oriented-programming/object-in-dart/)
-- [Class and Objects](https://dart-tutorial.com/object-oriented-programming/class-and-objects-in-dart/)
-- [Constructor in Dart](https://dart-tutorial.com/object-oriented-programming/constructor-in-dart/)
-- [Default constructor](https://dart-tutorial.com/object-oriented-programming/default-constructor-in-dart/)
-
 ## Projects
 
 Projects are a great way to learn. Here are some projects that you can try to get a better understanding of OOP.
@@ -81,3 +68,16 @@ Create a class called BankClient that have 3 private attributes : - Id which is 
 - Create a small test program (main) .
 
 Note : The balance is initialized at 0 and can't be negative.
+
+## Resources
+
+- [What is Object-oriented programming](https://www.educative.io/blog/object-oriented-programming)
+- [OOP Primer](https://www.codeguru.com/visual-basic/an-oop-primer/)
+- [OOP Concepts a Primer](https://www.cs.princeton.edu/courses/archive/spr96/cs333/java/tutorial/java/objects/index.html)
+- [Class vs Object](https://www.youtube.com/watch?v=BM9tPve8T1o)
+- [OOP in 8 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8)
+- [Class in Dart](https://dart-tutorial.com/object-oriented-programming/class-in-dart/)
+- [Objects in Dart](https://dart-tutorial.com/object-oriented-programming/object-in-dart/)
+- [Class and Objects](https://dart-tutorial.com/object-oriented-programming/class-and-objects-in-dart/)
+- [Constructor in Dart](https://dart-tutorial.com/object-oriented-programming/constructor-in-dart/)
+- [Default constructor](https://dart-tutorial.com/object-oriented-programming/default-constructor-in-dart/)
