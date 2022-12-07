@@ -21,7 +21,7 @@ Now that you know operators and how to manipulate data. In this lesson we learn 
 
     Write a program that requests user for a number and prints out whether the number is an [Armstrong number](https://en.wikipedia.org/wiki/Narcissistic_number) or not.
 
-### 4. Pallindrome
+### 4. Palindrome
 
     Write a program that requests user for a value and prints out whether the value is a [pallindrome](https://en.wikipedia.org/wiki/Palindrome) or not.
 

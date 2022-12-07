@@ -5,9 +5,9 @@ title: Introduction to OOP
 
 ## What is OOP?
 
-Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects", which can contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.
+Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects," which can contain data in the form of fields, which are commonly referred to as attributes, and code in the form of procedures, which are commonly referred to as methods. A class is an object's blueprint. Class can be compared to a labeled sketch of a parrot. It includes information such as the name, colors, and size.
 
-A class is a blueprint for the object. We can think of class as an sketch of a parrot with labels. It contains all the details about the name, colors, size etc. Based on these descriptions, we can study about the parrot. Here, a parrot is an object. An object (instance) is an instantiation of a class. When a class is defined, no memory or storage is allocated but when it is instantiated (i.e. an object is created) memory is allocated. The process of creating this object is called instantiation. The newly created object is called an instance of the class. The instance inherits all the variables and methods from the class but it also has its own unique set of variables and methods. In other words, each object contains an independent copy of the instance variables defined in the class.
+We can learn more about the parrot based on these descriptions. A parrot is an object in this context. An object (instance) is a class instantiation. When a class is defined, no memory or storage is allocated; however, memory is allocated when the class is instantiated (i.e. an object is created). Instantiation refers to the process of creating this object. The newly created object is referred to as a class instance. The instance inherits all of the class's variables and methods, but it also has its own set of variables and methods. In other words, each object contains an independent copy of the class's instance variables.
 
 ## Projects
 

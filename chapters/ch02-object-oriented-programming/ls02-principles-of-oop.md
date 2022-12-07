@@ -5,11 +5,11 @@ title: Principles of OOP
 
 ## Encapsulation
 
-Encapsulation is the process of hiding the implementation details of a class from the outside world. The only way to interact with an object is through its public interface. This means that the object's internal state is hidden from the outside world. The object's internal state can only be changed by calling public methods. This is a very powerful concept because it allows us to change the implementation of a class without affecting the code that uses it.
+Encapsulation is the process of concealing a class's implementation details from the outside world. The public interface is the only way to interact with an object. This means that the internal state of the object is hidden from the outside world. The internal state of the object can only be changed by calling public methods. This is a very powerful concept because it allows us to change a class's implementation without affecting the code that uses it.
 
 ## Abstraction
 
-Abstraction is the process of hiding the implementation details of a class from the outside world. The only way to interact with an object is through its public interface. This means that the object's internal state is hidden from the outside world. The object's internal state can only be changed by calling public methods. This is a very powerful concept because it allows us to change the implementation of a class without affecting the code that uses it.
+Abstraction is the process of concealing a class's implementation details from the outside world. The public interface is the only way to interact with an object. This means that the internal state of the object is hidden from the outside world. The internal state of the object can only be changed by calling public methods. This is a very powerful concept because it allows us to change a class's implementation without affecting the code that uses it.
 
 ## Inheritance
 

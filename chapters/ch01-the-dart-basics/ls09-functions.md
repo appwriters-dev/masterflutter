@@ -10,8 +10,8 @@ should understands functions and different terminologies associated with it.
 
 - function_name() - The function name should be unique in dart, and same rules apply for the
   identifiers.
-- parameter_list - Parameter for passing value to the function which is optinal.
-- return_type - Type of return value at end of funtion.
+- parameter_list - Parameter for passing value to the function which is optional.
+- return_type - Type of return value at end of function.
 
 ## Projects
 
@@ -28,7 +28,7 @@ Write a function that returns the reverse of a string.
 
 ### 3. Palindrome
 
-Use the reverse function togehter to write another function that accepts a word and returns true if the word is
+Use the reverse function together to write another function that accepts a word and returns true if the word is
 a [palindrome](https://en.wikipedia.org/wiki/Palindrome) and false otherwise.
 
 ### 4. Factorial
