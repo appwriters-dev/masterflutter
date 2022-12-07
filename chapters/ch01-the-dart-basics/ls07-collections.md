@@ -16,7 +16,7 @@ understand the data structures available in this language and how to use them.
 
 ### 1. Enum
     
-    Write a enum Season which can have values as different seasons. And write a program that prints your favorite season using the enum.
+Write a enum Season which can have values as different seasons. And write a program that prints your favorite season using the enum.
 
 ### 2. List
 
