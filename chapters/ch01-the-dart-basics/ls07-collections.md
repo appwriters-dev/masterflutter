@@ -20,7 +20,7 @@ understand the data structures available in this language and how to use them.
 
 ### 2. List
 
-     Write a program for the list, which have Value1 , Value2 and Value3 and print the values from that list.
+Create a quiz app that allows users to answer multiple-choice questions. Use a combination of Map and List to store the questions and options for each question, and allow the user to select one of the options.
 
 ### 3. Set
      
