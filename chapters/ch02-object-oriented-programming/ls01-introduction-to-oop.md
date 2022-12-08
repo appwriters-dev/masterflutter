@@ -14,11 +14,15 @@ We can learn more about the parrot based on these descriptions. A parrot is an o
 
 Projects are a great way to learn. Here are some projects that you can try to get a better understanding of OOP.
 
-### 1. Person
+### 1. Enum
+
+Write a enum Season which can have values as different seasons. And write a program that prints your favorite season using the enum.
+
+### 2. Person
 
 Create a simple program that defines a Person class with properties for a person's name and age, and then creates a few instances of the Person class. This project will help you understand the basics of defining classes and creating objects in Dart.
 
-### 2. Calculator
+### 3. Calculator
 
 Define a calculator class that has
 
@@ -28,7 +32,7 @@ Define a calculator class that has
 - all methods perform the desired calculation to the result and store the result
 - Create a test program with main method that initializes the calculator and performs operations
 
-### 2. Coordinate
+### 4. Coordinate
 
 Create a class called `Point` allowing to manipulate a point of a plane (x,y).
 
@@ -45,7 +49,7 @@ Write separate files:
 - A source file constituting the declaration of the class.
 - A small test program (main) declaring a point, displaying it, moving it around and showing it again.
 
-### 3. Vector3D
+### 5. Vector3D
 
 The class "vector3D" is defined as follows:
 
@@ -61,7 +65,7 @@ class Vector3D {
 - Add a member function "coincide" that check if two vectors have the same components.
 - A small test program (main)
 
-### 4. Bank Client
+### 6. Bank Client
 
 Create a class called BankClient that have 3 private attributes : - Id which is generated automatically and represents the order of the client in the bank Data Base (starting from 1 and can't be changed). - Name (can't be changed). - Balance have 3 methods (`getBalance`, `addToBalance`, and `subtractIfPossible`).
 

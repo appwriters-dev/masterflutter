@@ -20,34 +20,28 @@ In summary, Dart is a programming language that provides several built-in collec
 
 ## Projects
 
-### 1. Enum
-
-Write a enum Season which can have values as different seasons. And write a program that prints your favorite season using the enum.
-
-### 2. Quiz
+### 1. Quiz
 
 Create a quiz app that allows users to answer multiple-choice questions. Use a combination of Map and List to store the questions and options for each question, and allow the user to select one of the options.
 
-### 3. Unique Random Number
+### 2. Unique Random Number
 
 Create a simple random number generator. Use a Set to store the numbers that have been generated, and make sure that each number is unique.
 
-### 4. Shopping List
+### 3. Shopping List
 
 Create a shopping list app that allows users to add and remove items from a list. Use a Set to store the items in the list and ensure that each item only appears once in the list.
 
-### 5. Understand Map Usage
+### 4. Understand Map Usage
 
 Run this code on your local machine and try to understand how it works on Map.
 
 ```dart
-enum transmission { manual, automatic }
 void main() {
     var car = {
         "model": "Y8",
         "Horsepower": 456,
         "Energy": "Paterol",
-        "transmission": transmission.automatic
     };
     print(car.length);
     print(car.keys);
