@@ -35,7 +35,7 @@ Write a program by using late modifier and assign values that and print final va
 
 ## Resources
 
-- [Dart Null Safety](https://dart.dev/null-safety)
+- [Null Safety](https://dart.dev/null-safety)
 - [Understanding Null Safety](https://dart.dev/null-safety/understanding-null-safety)
-- [Sound Null Safety](https://dart.dev/null-safety#:~:text=Null%20safety%20prevents%20errors%20that,can%20be%20difficult%20to%20debug.)
-- [Practice courses](https://codewithandrea.com/videos/dart-null-safety-ultimate-guide-non-nullable-types/)
+- [Null Safety Codelab](https://dart.dev/codelabs/null-safety)
+- [Null Safety Ultimate Guide](https://codewithandrea.com/videos/dart-null-safety-ultimate-guide-non-nullable-types/)
