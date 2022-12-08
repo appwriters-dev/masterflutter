@@ -71,5 +71,9 @@ Try all the methods avaiable on the Map and their attributes too for the practic
 
 ## Resources
 
-- [data structures in Dart](https://medium.com/@daria.orlova/data-structures-with-dart-set-a034bc7b7d4a)
-
+- [List](https://dart-tutorial.com/collections/list-in-dart/)
+- [List](https://api.dart.dev/stable/2.18.5/dart-core/List-class.html)
+- [Set](https://dart-tutorial.com/collections/set-in-dart/)
+- [Set](https://api.dart.dev/stable/2.18.5/dart-core/Set-class.html)
+- [Map](https://dart-tutorial.com/collections/map-in-dart/)
+- [Map](https://api.dart.dev/stable/2.18.5/dart-core/Map-class.html)
