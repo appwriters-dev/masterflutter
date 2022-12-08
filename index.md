@@ -3,6 +3,9 @@ id: master-flutter
 title: Master Flutter
 author: Damodar Lohani , Ambika Dulal
 description: This will be your master plan to learn and practice Flutter the awesome cross-platform UI framework for next 3 months. No worries you can take it on your own pace. You can use this as a reference or a roadmap to learn Flutter and Dart.
+homePageTitle: Learn Effective.<br />Master Dart & Flutter.<br />Become Flutter Developer
+homePageDescription: Follow this guide to master your Dart & Flutter skill. This  self-paced guide will provide you will all the action and resources to become a skilled Flutter developer. This will be a project based, self-taught learning approach.
+homePageMetaDescription: Learn Effective. Master Dart & Flutter. Become Flutter Developer. Follow this guide to master your Dart & Flutter skill. This self-paced guide will provide you will all the action and resources to become a skilled Flutter developer. This will be a project based, self-taught learning approach.
 ---
 
 This will be your master plan to learn and practice Flutter the awesome cross-platform UI framework for next 3 months. No worries you can take it on your own pace.
