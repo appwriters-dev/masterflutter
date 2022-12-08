@@ -71,6 +71,8 @@ Try all the methods avaiable on the Map and their attributes too for the practic
 
 ## Resources
 
+- [Collections](https://dart.dev/guides/libraries/library-tour#collections)
+- [Collections](https://www.geeksforgeeks.org/dart-collections/)
 - [List](https://dart-tutorial.com/collections/list-in-dart/)
 - [List](https://api.dart.dev/stable/2.18.5/dart-core/List-class.html)
 - [Set](https://dart-tutorial.com/collections/set-in-dart/)
