@@ -1,17 +1,17 @@
 ---
 id: ls03-review
 title: Review
-description: Use the following questions to review the concepts of dependency management.
+description: Use the following questions to review dependency management concepts.
 ---
 
 ## Questions
 
-1. What is the dependency management tool used by Dart?
-2. What is the difference between a dependency and a transitive dependency?
-3. What is the difference between a dependency and a dev dependency?
-4. What are different ways to add a dependency to a dart project?
-5. What are dependency overrides?
-6. What are dependency constraints?
-7. What is a pubspec.yaml file?
-8. What is a pubspec.lock file?
-9. What are different attributes of pubspec.yaml file?
+1. What is Dart's dependency management tool?
+2. What is the distinction between a reliance and a transitive reliance?
+3. What is the distinction between a dependency and a development dependency?
+4. What are the various methods for adding a dependency to a dart project?
+5. What exactly are dependencies overrides? 
+6. What exactly are dependency constraints?
+7. What exactly is a pubspec.yaml file?
+8. What exactly is a pubspec.lock file?
+9. What are the various attributes of the pubspec.yaml file?

@@ -1,7 +1,7 @@
 ---
 id: ls02-principles-of-oop
 title: Principles of OOP
-description: The principles of OOP are designed to make it easier to create complex, modular, and scalable programs by organizing code into small, reusable units called classes. Principles like encapsulation, abstraction, inheritance, help to reduce complexity and improve the maintainability and reusability of code.
+description: The principles of OOP are designed to make it easier to create complex, modular, and scalable programs by organizing code into small, reusable units called classes. Principles like encapsulation, abstraction, inheritance, help to reduce complexity and improve the maintainability and re-usability of code.
 ---
 
 ## Encapsulation
@@ -14,7 +14,7 @@ Abstraction is the process of concealing a class's implementation details from t
 
 ## Inheritance
 
-Inheritance is the process of creating a new class from an existing class. The new class is called a subclass, and the existing class is called a superclass. The subclass inherits all the public and protected methods from the superclass. In addition, it can have its own methods in addition to the superclass's methods. Inheritance is a powerful concept because it allows us to create a new class that is based on an existing class, thus reducing the amount of code that we need to write.
+Inheritance is the process of creating a new class from an existing class. The new class is called a subclass, and the existing class is called a superclass. The subclass inherits all the public and protected methods from the superclass. In addition, it can have its own methods in addition to the superclass methods. Inheritance is a powerful concept because it allows us to create a new class that is based on an existing class, thus reducing the amount of code that we need to write.
 
 ## Projects
 
@@ -85,4 +85,4 @@ Note : Use different names for the get methods.
 - [Inheritance](https://www.darttutorial.org/dart-tutorial/dart-inheritance/)
 - [Inheritance](https://dart-tutorial.com/object-oriented-programming/inheritance-in-dart/)
 - [Inheritance of Constructor](https://dart-tutorial.com/object-oriented-programming/inheritance-of-constructor-in-dart/)
-- [Encapulation in Dart](https://dart-tutorial.com/object-oriented-programming/encapsulation-in-dart/)
+- [Encapsulation in Dart](https://dart-tutorial.com/object-oriented-programming/encapsulation-in-dart/)
