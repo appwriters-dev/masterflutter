@@ -18,7 +18,7 @@ Write a program that uses the `dependencies` and `dev_dependencies` sections of 
 
 Write an article about a Dart project's pubspec.yaml file and Publish and distribute it on social media.
 
-What exactly is the pubspec.yaml file?
+- What exactly is the pubspec.yaml file?
 - What does the pubspec.yaml file serve?
 - What is the pubspec.yaml file's structure?
 - The significance of each field in the pubspec.yaml file
