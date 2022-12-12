@@ -4,14 +4,14 @@ title: Introduction to Asynchronous Programming
 description: Asynchronous programming is a programming paradigm that enables a program to do more than one thing at a time. In asynchronous programming, long-running tasks run in the background without blocking the main execution thread. Asynchronous programming is very useful for performing I/O operations, such as accessing the network and accessing the file system. Dart uses Future, Stream, and async/await to implement asynchronous programming.
 ---
 
-Asynchronous programming is a programming paradigm that enables a program to do more than one thing at a time. In asynchronous programming, long-running tasks run in the background without blocking the main execution thread. Asynchronous programming is very useful for performing I/O operations, such as accessing the network and accessing the file system. Asynchronous programming is also useful for performing time-consuming operations, such as image processing and mathematical calculations.
+Asynchronous programming is a programming paradigm that allows a program to do multiple things at the same time. Long-running tasks in asynchronous programming run in the background without interfering with the main execution thread. Asynchronous programming is extremely useful for performing I/O operations such as network and file system access. Asynchronous programming can also be used to perform time-consuming tasks like image processing and mathematical calculations.
 
-In Dart and Flutter asynchronous programming is used for a variety of tasks, such as:
+Asynchronous programming is used in Dart and Flutter for a variety of tasks, including:
 
-- Making HTTP requests to a REST API
-- Reading and writing files
-- Doing heavy calculations
-- Performing long running tasks, such as animations
+- Using HTTP to make REST API requests
+- Reading and writing files 
+- Completing complex calculations
+- Executing lengthy tasks, such as animations
 
 In this chapter, we will learn about asynchronous programming in Dart and Flutter. We will learn about the `Future` class, the `async` and `await` keywords, and the `Stream` class.
 

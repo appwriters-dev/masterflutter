@@ -4,11 +4,11 @@ title: Introduction to REST API
 description: REST (Representational State Transfer) API is a type of web service that uses the HTTP protocol to allow client applications to access and manipulate data on a server. REST APIs are popular because they are easy to use, scalable, and widely supported by a variety of client applications.
 ---
 
-REST API is a set of rules that developers follow to create APIs. REST stands for Representational State Transfer. It is an architectural style for designing networked applications. REST APIs use HTTP requests to GET, PUT, POST and DELETE data. REST APIs are stateless, which means that the server does not keep any data (state) between two requests. This makes REST APIs scalable and easy to maintain. REST APIs are also easy to understand and use. REST APIs are the most popular way to create APIs.
+REST API is a set of rules that developers must follow when developing APIs. REST is an acronym that stands for Representational State Transfer. It is a networked application design architectural style. HTTP requests are used by REST APIs to GET, PUT, POST, and DELETE data. REST APIs are stateless, which means the server does not maintain any data (state) between requests. REST APIs are thus scalable and simple to maintain. REST APIs are also simple to understand and apply. REST APIs are the most commonly used method for developing APIs.
 
 ## JSON
 
-JSON stands for JavaScript Object Notation. It is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the [JavaScript Programming Language](https://www.javascript.com/), [Standard ECMA-262 3rd Edition - December 1999](https://www.ecma-international.org/publications/standards). JSON is the most popular way to send and receive data to and from a REST API.
+JSON is an abbreviation for JavaScript Object Notation. It is a simple data interchange format. Humans find it simple to read and write. Machines can easily parse and generate it. It is built on a subset of the [JavaScript Programming Language](https://www.javascript.com/), as well as [Standard ECMA-262 3rd Edition - December 1999](https://www.ecma-international.org/publications/standards). JSON is the most commonly used format for sending and receiving data to and from a REST API.
 
 ## REST API Example
 
@@ -18,23 +18,23 @@ Let's take a look at a simple REST API example. We will use the [JSONPlaceholder
 
 ### 1. Write an Article about REST API
 
-Write an article about REST API. The article should include the following:
+Create a REST API article. The following information should be included in the article:
 
-- What is REST API?
-- What are the advantages and disadvantages of REST API?
-- What are the disadvantages of REST API?
-- What are the most popular REST API testing tools?
-- What are the most popular REST API documentation tools?
+- What exactly is REST API?
+- What are the benefits and drawbacks of REST API?
+- What are the drawbacks of REST API?
+- Which are the most widely used REST API testing tools?
+- Which are the most widely used REST API documentation tools?
 
 ### 2. On Paper or Whiteboard, Draw a Diagram of a REST API
 
-Draw a diagram of a REST API. The diagram should include the following:
+Create a REST API diagram. The following elements should be included in the diagram:
 
-- The client
-- The server
-- The HTTP request
-- The HTTP response
-- The data
+ - The client,
+ - the server, 
+ - the HTTP request,
+ - the HTTP response,
+ - and the data are all involved.
 
 ### 3. Design a REST API
 

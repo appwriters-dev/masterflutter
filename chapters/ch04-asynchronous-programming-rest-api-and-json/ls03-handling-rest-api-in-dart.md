@@ -1,10 +1,10 @@
 ---
 id: ls03-handling-rest-api-in-dart
 title: Handling REST API in Dart
-description: Learn how to handle REST API in Dart by building projects like Pokemon searcher, Movie searcher, and more. You will learn to use the http package and Future, async, and await in Dart.
+description: Learn how to use REST APIs in Dart by creating projects such as Pokemon search, Movie search, and more. You will learn to use the http package and Future, async, and await in Dart.
 ---
 
-In this lesson, we will learn how to handle REST API in Dart. We will use the [http](https://pub.dev/packages/http) package to handle REST API in Dart. In the process we will also gain more insight into `Future`, `async`, and `await`.
+In this lesson, we'll look at how to use REST API in Dart. To handle REST API in Dart, we will use the [http](https://pub.dev/packages/http) package. We'll also learn more about 'Future,' 'async,' and 'await' along the way.
 
 ## Projects
 
@@ -14,13 +14,12 @@ Write a program to fetch data from the [Pokemon API](https://pokeapi.co/docs/v2)
 
 ### 2. Movie Searcher
 
-Write a program uses [TMDB movie API](https://developers.themoviedb.org/3) to provide following functionalities:
+Write a program uses [OMDB movie API](https://developers.themoviedb.org/3) to provide following functionalities:
 
-- will be a CLI program
-- Search movie details by title
-- Get list of upcoming movies
-- Get list of top rated movies
-- Get list of popular movies
+- There will be a CLI program.
+- Search for movie information by title - View a list of upcoming films
+- Get a list of the best-rated movies.
+- Compile a list of popular films
 
 Add more functionalities as you like
 

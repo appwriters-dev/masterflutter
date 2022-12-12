@@ -6,7 +6,7 @@ description: Review concepts of basic Dart programming using these questions and
 
 ## Questions
 
-Try to answer these questions, if you fail, you should revisit the appropriate lessons and the resources.
+If you are unable to answer these questions, you should review the relevant lessons and resources.
 
 1. What is a variable in Dart, and how is it declared and initialized?
 2. How do you use a **`for`** loop to iterate over a list of elements in Dart?
@@ -34,7 +34,7 @@ Try to answer these questions, if you fail, you should revisit the appropriate l
 
 ## Projects
 
-Use these projects to revisit what you've learned so far and to practice your skills. If you get confused, you should revisit the appropriate lessons and the resources.
+Use these projects to review and practice what you've learned so far. If you become confused, go back over the relevant lessons and resources.
 
 > **Note:** publish these projects to GitHub and share the links in your social media.
 

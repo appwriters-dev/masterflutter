@@ -41,7 +41,7 @@ void main() {
     var car = {
         "model": "Y8",
         "Horsepower": 456,
-        "Energy": "Paterol",
+        "Energy": "Patrol",
     };
     print(car.length);
     print(car.keys);
@@ -54,14 +54,14 @@ void main() {
     print(car);
     car.remove("Energy");
     print(car);
-    car.updateAll((key, value) => "unkown");
+    car.updateAll((key, value) => "unknown");
     print(car);
     car.clear();
     print(car);
 }
 ```
 
-Try all the methods avaiable on the Map and their attributes too for the practice purpose.
+Try all the methods available on the Map and their attributes too for the practice purpose.
 
 ## Resources
 

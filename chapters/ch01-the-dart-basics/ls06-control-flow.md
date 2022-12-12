@@ -24,7 +24,7 @@ Write a program that requests user for a number and prints out whether the numbe
 
 ### 4. Palindrome
 
-Write a program that requests user for a value and prints out whether the value is a [pallindrome](https://en.wikipedia.org/wiki/Palindrome) or not.
+Write a program that requests user for a value and prints out whether the value is a [palindrome](https://en.wikipedia.org/wiki/Palindrome) or not.
 
 ### 5. What Data Type
 

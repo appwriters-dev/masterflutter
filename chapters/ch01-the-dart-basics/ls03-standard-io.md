@@ -14,7 +14,7 @@ Receive user's name as input and display `Welcome <user's name>` as output
 
 ### 2. Two Fer
 
-Ask user to inpute a name, return a string with the message:
+Ask user to input a name, return a string with the message:
 
 ```
 One for {name}, one for me.
@@ -31,7 +31,7 @@ One for you, one for me.
 Here are some examples:
 
 | Name  | String to return           |
-| ----- | -------------------------- |
+|-------|----------------------------|
 | Ram   | One for Ram, one for me.   |
 | Shyam | One for Shyam, one for me. |
 |       | One for you, one for me.   |
@@ -39,5 +39,5 @@ Here are some examples:
 
 ## Resources
 
-- [Dart standart I/O](https://www.geeksforgeeks.org/dart-standard-input-output/)
+- [Dart standard I/O](https://www.geeksforgeeks.org/dart-standard-input-output/)
 - [User input in Dart](https://dart-tutorial.com/introduction-and-basics/user-input-in-dart/)

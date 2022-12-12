@@ -1,12 +1,12 @@
 ---
 id: ls03-review
 title: Review
-description: Use the following questions to review the concepts of object oriented programming in Dart. This is a very important concept to understand if you wish to learn Flutter. If you have trouble answering any of the questions, review the relevant lessons and resources and try again.
+description: Use the following questions to review object-oriented programming concepts in Dart. This is a critical concept to grasp if you want to learn Flutter. If you are having difficulty answering any of the questions, go back over the relevant lessons and resources and try again.
 ---
 
 ## Questions
 
-Use the following questions to review the concepts in this lesson. If you have trouble answering any of the questions, review the relevant lessons and resources and try again.
+Use the following questions to review object-oriented programming concepts in Dart. This is a critical concept to comprehend if To review the concepts covered in this lesson, answer the following questions. If you are having difficulty answering any of the questions, go back over the relevant lessons and resources and try again.
 
 1. What is a class in Dart, and how is it used?
 2. How do you define a method in a class, and how do you call it on an instance of the class?
