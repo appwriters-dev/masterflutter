@@ -1,6 +1,7 @@
 ---
 id: about
 title: About
+description: Namaste, welcome to your master guide to learn Dart and Flutter and become a super Flutter developer. We have used the resources scattered around the internet and brought it together for you in an organized action plan. This project based action plan to learn Dart and Flutter is not only for beginners but also for existing developers to enhance their skills.
 ---
 
 # About Master Flutter
