@@ -31,6 +31,7 @@ Build a CLI app that calculates the area of a different shapes. Display the menu
 4. Triangle
 5. Exit
 ```
+
 Based on user selection, ask for the required input and display the area of the shape. For example, if the user selects 1, ask for the radius and display the area of the circle. If the user selects 5, exit the program.
 
 ### 2. Quote of the Day

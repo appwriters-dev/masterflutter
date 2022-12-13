@@ -31,4 +31,5 @@ C = (F - 32) * 5/9
 
 ## Resources
 
-- [Operator in Dart](https://api.flutter.dev/flutter/dart-core/int/operator_bitwise_and.html)
+- [Operators in Dart](https://dart-tutorial.com/introduction-and-basics/operators-in-dart/)
+- [Operators in Dart](https://www.geeksforgeeks.org/operators-in-dart/)

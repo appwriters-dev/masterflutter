@@ -78,7 +78,6 @@ Note : The balance is initialized at 0 and can't be negative.
 ## Resources
 
 - [What is Object-oriented programming](https://www.educative.io/blog/object-oriented-programming)
-- [OOP Primer](https://www.codeguru.com/visual-basic/an-oop-primer/)
 - [OOP Concepts a Primer](https://www.cs.princeton.edu/courses/archive/spr96/cs333/java/tutorial/java/objects/index.html)
 - [Class vs Object](https://www.youtube.com/watch?v=BM9tPve8T1o)
 - [OOP in 8 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8)

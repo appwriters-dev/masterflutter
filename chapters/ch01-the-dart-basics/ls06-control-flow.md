@@ -36,5 +36,9 @@ Write a program that prints the numbers from 1 to 100, but for multiples of thre
 
 ## Resources
 
+- [Conditions](https://dart-tutorial.com/conditions-and-loops/conditions-in-dart/)
+- [Switch Case](https://dart-tutorial.com/conditions-and-loops/switch-case-in-dart/)
+- [Loops in Dart](https://dart-tutorial.com/conditions-and-loops/loops-in-dart/)
+- [Conditions and Loops](https://dart-tutorial.com/conditions-and-loops/)
 - [Dart Control Flow Statement](https://www.javatpoint.com/dart-control-flow-statement)
 - [Dart Control Flow Statement](https://medium.com/@MrArc/dart-control-flow-statements-d2d6005604)

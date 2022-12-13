@@ -9,7 +9,7 @@ Asynchronous programming is a programming paradigm that allows a program to do m
 Asynchronous programming is used in Dart and Flutter for a variety of tasks, including:
 
 - Using HTTP to make REST API requests
-- Reading and writing files 
+- Reading and writing files
 - Completing complex calculations
 - Executing lengthy tasks, such as animations
 
