@@ -31,7 +31,7 @@ One for you, one for me.
 Here are some examples:
 
 | Name  | String to return           |
-|-------|----------------------------|
+| ----- | -------------------------- |
 | Ram   | One for Ram, one for me.   |
 | Shyam | One for Shyam, one for me. |
 |       | One for you, one for me.   |
