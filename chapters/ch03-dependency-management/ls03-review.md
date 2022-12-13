@@ -1,6 +1,6 @@
 ---
 id: ls03-review
-title: Review
+title: Dependency Management Review
 description: Use the following questions to review dependency management concepts.
 ---
 
@@ -10,7 +10,7 @@ description: Use the following questions to review dependency management concept
 2. What is the distinction between a reliance and a transitive reliance?
 3. What is the distinction between a dependency and a development dependency?
 4. What are the various methods for adding a dependency to a dart project?
-5. What exactly are dependencies overrides? 
+5. What exactly are dependencies overrides?
 6. What exactly are dependency constraints?
 7. What exactly is a pubspec.yaml file?
 8. What exactly is a pubspec.lock file?

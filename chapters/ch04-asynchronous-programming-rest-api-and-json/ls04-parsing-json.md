@@ -15,3 +15,8 @@ Create a Pokemon class that mimics the JSON response from the [PokeAPI](https://
 ### 2. Movie
 
 Create a Movie class that mimics the JSON response from the [OMDB API](http://www.omdbapi.com/) that you used in the previous chapter. Add a From Map method that takes a `Map<String, dynamic>` and returns a Movie object. Update the project from previous chapter to use the Movie class.
+
+## Resources
+
+- [Parsing JSON in Dart](https://codewithandrea.com/articles/parse-json-dart/)
+- [JSON to dart converter](https://javiercbk.github.io/json_to_dart/)

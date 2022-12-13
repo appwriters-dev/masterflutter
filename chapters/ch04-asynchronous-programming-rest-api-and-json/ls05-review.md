@@ -1,6 +1,6 @@
 ---
 id: ls05-review
-title: Review
+title: Async Programming and Rest API Review
 description: Using these questions and projects, you will learn about asynchronous programming, REST API, JSON, and how to handle them in Dart.
 ---
 
@@ -17,3 +17,7 @@ description: Using these questions and projects, you will learn about asynchrono
 ## Projects
 
 1. Create a simple REST API to create, read, update and delete a persons record using [shelf](https://pub.dev/packages/shelf) package.
+2. Create a CLI Quiz application using the [Open Trivia Database](https://opentdb.com/api_config.php) API.
+3. Create a CLI Weather application using the [Open Weather Map](https://openweathermap.org/api) API to display the weather given a city name.
+4. If you are a Stars Wars fan, create a CLI application to display the details of the Star Wars characters using the [Star Wars API](https://swapi.dev/).
+5. Write a tutorial on any one of the projects above and publish on [dev.to](https://dev.to/) or [medium.com](https://medium.com/).

@@ -30,11 +30,11 @@ Create a REST API article. The following information should be included in the a
 
 Create a REST API diagram. The following elements should be included in the diagram:
 
- - The client,
- - the server, 
- - the HTTP request,
- - the HTTP response,
- - and the data are all involved.
+- The client,
+- the server,
+- the HTTP request,
+- the HTTP response,
+- and the data are all involved.
 
 ### 3. Design a REST API
 
