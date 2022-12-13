@@ -3,7 +3,7 @@ id: ls06-dart-programming-review
 title: Dart Programming Review
 ---
 
-Wow, you have done it. You have learned all the basics of Dart that are essential to learn Flutter programming. In this chapter, we have covered the following topics:
+Wow, you have done it. You have learned the basics of Dart that are essential to learn Flutter. In the preceeding chapters, we have covered the following topics:
 
 1. Basics of Dart (variables, data types, operators, control flow, collections, null safety, and functions)
 2. Object Oriented Programming (classes, objects, constructors, inheritance, and interfaces)
