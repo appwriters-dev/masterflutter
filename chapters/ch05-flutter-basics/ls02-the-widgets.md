@@ -1,9 +1,9 @@
 ---
-id: ch06-the-widgets
+id: ls02-the-widgets
 title: The Widgets
 ---
 
-In this chapter we will learn about widgets the basic building blocks of a Flutter app. We will learn how to create a widget and how to use it in our app.
+In this lesson we will learn about widgets the basic building blocks of a Flutter app. We will learn how to create a widget and how to use it in our app.
 
 ## Projects
 

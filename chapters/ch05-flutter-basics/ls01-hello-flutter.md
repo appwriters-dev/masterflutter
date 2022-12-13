@@ -1,11 +1,9 @@
 ---
-id: ch05-hello-flutter
+id: ls01-hello-flutter
 title: Hello Flutter
 ---
 
-Flutter is a framework for building modern applications. It is a cross-platform framework, meaning that it can be used to build applications for both Android, iOS, all major desktop and web. Flutter is built on the Dart programming language which we learned about and practiced in previous chapters. In the next few chapters we will learn the basics of Flutter and build many applications.
-
-In this first chapter we will learn to get started with Flutter framework.
+In this first lesson we will learn to get started with Flutter framework.
 
 ## Projects
 
