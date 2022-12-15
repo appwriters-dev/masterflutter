@@ -32,7 +32,6 @@ Write a program that uses the Future class to perform multiple asynchronous oper
 ## Resources
 
 - [DartPad: Futures](https://dartpad.dev/futures)
-- [DartPad: Async and Await](https://dartpad.dev/async-await)
 - [Dart Async and Await](https://dart.dev/codelabs/async-await)
 - [Asynchronous Programming](https://dart-tutorial.com/asynchronous-programming/asynchronous-programming-in-dart/)
 - [Future in Dart](https://dart-tutorial.com/asynchronous-programming/future-in-dart/)
