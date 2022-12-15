@@ -19,7 +19,11 @@ Create a Flutter UI that displays a text in a container. The container should be
 
 ## Resources
 
+While going through resources keep the project you are tryng to build in mind and focus on your requirement rather than everything in the resource. This will help you understand the concepts better as well as focus on the right things.
+
 - [Flutter Widgets](https://docs.flutter.dev/development/ui/widgets-intro)
 - [Container](https://api.flutter.dev/flutter/widgets/Container-class.html)
 - [Text](https://api.flutter.dev/flutter/widgets/Text-class.html)
 - [Center](https://api.flutter.dev/flutter/widgets/Center-class.html)
+- [TextStyle](https://api.flutter.dev/flutter/painting/TextStyle-class.html)
+- [Beginners guide to styling text](https://medium.com/flutter-community/beginners-guide-to-text-styling-in-flutter-3939085d6607)
