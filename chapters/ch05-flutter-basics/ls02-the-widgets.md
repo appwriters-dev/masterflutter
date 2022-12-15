@@ -5,6 +5,8 @@ title: The Widgets
 
 In this lesson we will learn about widgets the basic building blocks of a Flutter app. We will learn how to create a widget and how to use it in our app.
 
+> **Tip:** Remember classes and objects we practiced about? Widgets are just that, classes and we create objects to use them in our app to build our UI.
+
 ## Projects
 
 ### 1. Center Text
