@@ -15,7 +15,6 @@ Create a Flutter UI that displays a text in the center of the screen. The text s
 
 Create a Flutter UI that displays a text in a container. The container should be centered horizontally and vertically. The container should have a width of 200 and a height of 100. The container should have a border with a width of 2 and a color of blue. The container should be filled with red color. The container should have 20 padding on all sides The text should be `<Your Name>`. Text size should be 24 and text color should be white and text weight should be bold.
 
-
 ## Resources
 
 - [Flutter Widgets](https://docs.flutter.dev/development/ui/widgets-intro)
