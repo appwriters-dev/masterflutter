@@ -34,5 +34,4 @@ Write a tutorial on how to use Pokemon API to build a pokemon searcher explainin
 ## Resources
 
 - [http](https://pub.dev/packages/http)
-- [DartPad: Futures](https://dartpad.dev/futures)
-- [DartPad: Async and Await](https://dartpad.dev/async-await)
+- [Async and Await](https://dart.dev/codelabs/async-await)
