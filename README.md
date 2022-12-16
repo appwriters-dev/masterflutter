@@ -26,3 +26,23 @@ Project based action plan to master Dart and Flutter programming skills.
    1. Navigation (push, pop, named routes)
    2. Passing data between pages
    3. Navigation with tabs
+10. Using Plugins
+    1.  Camera
+    2.  Vibration
+    3.  Location
+11. State Management
+    1.  State management with InheritedWidget
+    2.  State management with Provider
+    3.  State management with BLoC
+    4.  Other state management options
+12. Data Persistence
+    1.  Shared preferences
+    2.  SQLite
+    3.  Hive
+13. Rest API
+    1.  HTTP
+    2.  Dio
+14. Testing
+    1.  Unit test
+    2.  Widget Test
+    3.  Integration Test
