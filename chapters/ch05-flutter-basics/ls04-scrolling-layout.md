@@ -3,7 +3,7 @@ id: ls04-scrolling-layout
 title: Scrolling Layout
 ---
 
-An application most of the time shows a lot of data that doesn't fit in a single screen. Especially for mobile applications where screen real state is very low. How do we deal with that? With scrolling area. In this lesson, we will practice displaying a lot of data using a scrolling layout. Two key widgets to remember for this lesson is `SingleChildScrollView` and `ListView`.
+Most applications display a large amount of data that does not fit on a single screen. Especially for mobile applications with low screen real state. What are we going to do about it? With a scrollable area. We will practice displaying a large amount of data using a scrolling layout in this lesson. 'SingleChildScrollView' and 'ListView' are two important widgets to remember for this lesson.
 
 ## Projects
 

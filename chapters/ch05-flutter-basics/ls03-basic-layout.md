@@ -3,7 +3,7 @@ id: ls03-basic-layout
 title: Basic Layout
 ---
 
-In this lesson we will learn how to create a basic layout with multiple widgets. We will learn `Row`, `Column`, `Stack` wdigets and other related widgets.
+In this lesson we will learn how to create a basic layout with multiple widgets. We will learn `Row`, `Column`, `Stack` widgets and other related widgets.
 
 ## Projects
 
