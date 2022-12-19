@@ -13,7 +13,30 @@ Build the following layout using `Row`, `Column`, `Padding` and `Image` widgets.
 
 ![Basic layout](/images/ch05-ls03-pr-01.png)
 
+### 2. Stack 
+
+After competing the above image layout on your local device, replace column with stack and experiment with the differences between column and stack. Also use `Position` widgets inside stack.
+
+### 3. Flexible 
+
+Try flexible inside a row or column and adding a child with the flex and fit properties.
+
+### 3. Expanded 
+
+Try Expanded inside a row or column and adding a child .
+
+### 4. Make experimental ui between Flexible and Expanded
+
+Create one ui by wrapping Expanded and another by wrapping Flexible to see what the difference is between the two.
+
+### 4. Use all widgets mention on this lesson
+
+Make a attractive page layout by using all widgets available on this lesson with `Alignment` ,`Padding` , `Container`,`SizeBox`, 
+
+
 > **Tip**: Use `Image.network` to display your image. Don't forget to post screenshot after you are done to your social networks with hashtag #masterflutter
+
+## Write a 500-word blog to summarize your practice with this lesson's widgets and layout.
 
 ## Resources
 
