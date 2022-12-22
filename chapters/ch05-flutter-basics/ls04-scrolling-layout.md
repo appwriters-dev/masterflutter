@@ -15,8 +15,27 @@ Display a list of 100 names in a scrolling area. The list should be displayed in
 
 Display a list of 10 images in a scrolling area. The list should be displayed in a `ListView` widget. Each item in the list should be an `Image` widget with a random image. The images can be generated using the [faker](https://pub.dev/packages/faker) package.
 
+### 3. GridView 
+
+Create a two-column `GridView`. To separate the children, use the crossAxisSpacing and mainAxisSpacing properties.
+
+### 4. PageView 
+
+By wrapping `PageViw` widget , Creates a page with centered Text in each of the three pages which scroll horizontally.
+
+### 5. SingleChildScrollView
+
+By using `SingleChildScrollView` you can create a full page design that is scrollable if the view part is still in the app. Also, try using `SingleChildScrollView` by scrolling horizontally inside the row.
+
+### 6. CustomScrollView
+
+By using `CustomScrollView` , Make a scroll view with an expanding app bar, a list, and a grid by combining three slivers: SliverAppBar, SliverList, and SliverGrid.
+
 ## Resources
 
 - [SingleChildScrollView](https://api.flutter.dev/flutter/widgets/SingleChildScrollView-class.html)
 - [ListView](https://api.flutter.dev/flutter/widgets/ListView-class.html)
 - [Faker](https://pub.dev/packages/faker)
+- [GridView](https://api.flutter.dev/flutter/widgets/GridView-class.html)
+- [PageView](https://api.flutter.dev/flutter/widgets/PageView-class.html)
+- [CustomScrollView](https://api.flutter.dev/flutter/widgets/CustomScrollView-class.html)
