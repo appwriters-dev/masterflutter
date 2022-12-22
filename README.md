@@ -14,8 +14,8 @@ Project based action plan to master Dart and Flutter programming skills.
    2. Basic styling (colors, fonts, padding, margin, border)
    3. Themes
 7. Interactivity
-   1. Stateless vs Stateful
-   2. Basic interactivity (button, textfield)
+   1. Basic interactivity (button)
+   2. Basic Forms
    3. Snackbar
    4. Alerts and Dialogs
 8. Assets
