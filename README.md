@@ -16,8 +16,7 @@ Project based action plan to master Dart and Flutter programming skills.
 7. Interactivity
    1. Basic interactivity (button)
    2. Basic Forms
-   3. Snackbar
-   4. Alerts and Dialogs
+   3. Alerts and Dialogs
 8. Assets
    1. Images
    2. Fonts
