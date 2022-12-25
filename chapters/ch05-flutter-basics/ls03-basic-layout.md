@@ -31,7 +31,9 @@ Create one ui by wrapping Expanded and another by wrapping Flexible to see what 
 
 ### 4. Use all widgets mention on this lesson
 
-Make a attractive page layout by using all widgets available on this lesson with `Alignment` ,`Padding` , `Container`,`SizeBox`, 
+Make a attractive page layout by using all widgets available on this lesson with `Alignment` ,`Padding` , `Container`,`SizeBox`. Complete below design and add your github publicly. 
+
+![ListView with Expanded , Flexible ](/images/ch05-ls03-Listview-design-01.jpg)
 
 
 > **Tip**: Use `Image.network` to display your image. Don't forget to post screenshot after you are done to your social networks with hashtag #masterflutter
