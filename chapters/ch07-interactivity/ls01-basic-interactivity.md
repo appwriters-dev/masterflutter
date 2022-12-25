@@ -3,7 +3,7 @@ id: ls01-basic-interactivity
 title: Basic Interactivity
 ---
 
-Up until now you have been using the Stateless Widgets, thats fine until you are building static layouts. However to build dynamic layouts and add interactivity to your app, you need to use Stateful Widgets.
+Up until now you have been using the Stateless Widgets, that's fine until you are building static layouts. However to build dynamic layouts and add interactivity to your app, you need to use Stateful Widgets.
 
 ## Projects
 
