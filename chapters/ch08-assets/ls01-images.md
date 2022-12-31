@@ -17,6 +17,10 @@ Your photo should be kept inside `assets/images` folder. You can use any image y
 
 > **Note:** Use `Image.asset` to load the image from assets. Check [pubspec assets](https://flutter.dev/docs/development/ui/assets-and-images#declaring-assets) for more information.
 
+### 2. Dice Roller
+
+Build a dice roller application. Download the dice images, one for each side of the dice. Place them as assets in your Flutter project. In the UI in center display the one of the dice image. At the bottom, display a button that has text `roll` and when clicked, changes the dice image to a random one.
+
 ## Resources
 
 - [Image Widget](https://api.flutter.dev/flutter/widgets/Image-class.html)
