@@ -43,7 +43,45 @@ Load question data from a JSON file in asset. Create a new file `assets/question
 
 Display these questions in a quiz app. You can use the `Quiz` app from the previous chapter.
 
+### 2. A Chart
+
+Load the following user data from `assets/data.json` and display it in a chart.
+
+```json
+[
+    {
+      "name": "John",
+      "age": 30,
+      "height": 6.0,
+      "weight": 150
+    },
+    {
+      "name": "Jane",
+      "age": 25,
+      "height": 5.5,
+      "weight": 120
+    },
+    {
+      "name": "Jack",
+      "age": 28,
+      "height": 5.8,
+      "weight": 130
+    },
+    {
+      "name": "Jill",
+      "age": 32,
+      "height": 5.6,
+      "weight": 140
+    }
+]
+```
+
+Plot the height and weight of the users in a line chart.
+
+> Hint: Use the [fl_chart](https://pub.dev/packages/fl_chart) package. Or you may use any other charting package of your choice from [pub.dev](https://pub.dev/).
+
 ## Resources
 
 - [Flutter assets and images](https://flutter.dev/docs/development/ui/assets-and-images)
 - [JSON and serialization](https://flutter.dev/docs/development/data-and-backend/json)
+- [FL Chart](https://pub.dev/packages/fl_chart)]
