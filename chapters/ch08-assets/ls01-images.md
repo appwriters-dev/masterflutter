@@ -19,7 +19,7 @@ Your photo should be kept inside `assets/images` folder. You can use any image y
 
 ### 2. Dice Roller
 
-Build a dice roller application. Download the dice images, one for each side of the dice. Place them as assets in your Flutter project. In the UI in center display the one of the dice image. At the bottom, display a button that has text `roll` and when clicked, changes the dice image to a random one.
+Refactor dice app from previous chapter to use the image of Dice instead of the number.
 
 ## Resources
 
