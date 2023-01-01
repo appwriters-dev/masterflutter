@@ -7,6 +7,15 @@ Theming is a way to customize the look and feel of your application. It is a pow
 
 ## Projects
 
+### 1. Understanding Theme
+
+Create a new Flutter project. Update the theme so that scaffold background color is `white`, `AppBar` background color is `lime`. Update the existing `Text` widget to use the `headline1` style (check `Theme.of(context).textTheme`).
+
+### 2. Text Theme
+
+Use [Google Fonts](https://pub.dev/packages/google_fonts) package to add a new font to your application. Update the theme of your App so that the all the headlines uses `Intra` font where as body text uses `Open Sans`.
+
+
 ## Resources
 
 - [MaterialApp.theme](https://api.flutter.dev/flutter/material/MaterialApp/theme.html)

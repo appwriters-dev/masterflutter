@@ -32,6 +32,15 @@ Create a Flutter application that displays a list of people from a Json file. Th
 5. The app should have a `ListView` widget that displays the list of people.
 7. The app should have a `Card` widget that displays the details of a person.
 
+### 4. Material Widgets
+
+Write an article covering any two of the material widgets that we have learned about in this lesson. The article should include the following:
+
+1. A brief introduction to the widget.
+2. Code snippets showing how to use the widget.
+3. Screenshot of the app that uses the widget.
+
+Publish the article on medium or dev.to and share the link in your social media.
 
 ## Resources
 
@@ -40,3 +49,4 @@ Create a Flutter application that displays a list of people from a Json file. Th
 3. [Scaffold](https://api.flutter.dev/flutter/material/Scaffold-class.html)
 4. [AppBar](https://api.flutter.dev/flutter/material/AppBar-class.html)
 5. [FloatingActionButton](https://api.flutter.dev/flutter/material/FloatingActionButton-class.html)
+6. [BottomNavigationBar](https://api.flutter.dev/flutter/material/BottomNavigationBar-class.html)

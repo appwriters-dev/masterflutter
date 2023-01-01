@@ -25,4 +25,5 @@ Write a Flutter program that uses the device's selfie camera to take a picture a
 
 - [Image Picker](https://pub.dev/packages/image_picker)
 - [Image.file](https://api.flutter.dev/flutter/widgets/Image/Image.file.html)
+- [Camera](https://pub.dev/packages/camera)
 - [Using the device camera](https://flutter.dev/docs/cookbook/plugins/picture-using-camera)

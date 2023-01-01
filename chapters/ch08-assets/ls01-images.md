@@ -17,6 +17,10 @@ Your photo should be kept inside `assets/images` folder. You can use any image y
 
 > **Note:** Use `Image.asset` to load the image from assets. Check [pubspec assets](https://flutter.dev/docs/development/ui/assets-and-images#declaring-assets) for more information.
 
+### 2. Dice Roller
+
+Refactor dice app from previous chapter to use the image of Dice instead of the number.
+
 ## Resources
 
 - [Image Widget](https://api.flutter.dev/flutter/widgets/Image-class.html)

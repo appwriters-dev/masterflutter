@@ -11,25 +11,19 @@ Most applications display a large amount of data that does not fit on a single s
 
 Display a list of 100 names in a scrolling area. The list should be displayed in a `ListView` widget. Each item in the list should be a `Text` widget with a name. The names can be generated using the [faker](https://pub.dev/packages/faker) package.
 
+> Note: Make sure to explore different properties of `ListView` widget. For example, you can set the `scrollDirection` property to `Axis.horizontal` to display the list horizontally.
+
 ### 2. List of Images
 
 Display a list of 10 images in a scrolling area. The list should be displayed in a `ListView` widget. Each item in the list should be an `Image` widget with a random image. The images can be generated using the [faker](https://pub.dev/packages/faker) package.
 
-### 3. GridView 
-
-Create a two-column `GridView`. To separate the children, use the crossAxisSpacing and mainAxisSpacing properties.
-
-### 4. PageView 
-
-By wrapping `PageViw` widget , Creates a page with centered Text in each of the three pages which scroll horizontally.
-
-### 5. SingleChildScrollView
-
 By using `SingleChildScrollView` you can create a full page design that is scrollable if the view part is still in the app. Also, try using `SingleChildScrollView` by scrolling horizontally inside the row.
 
-### 6. CustomScrollView
+### 3. Products List
 
-By using `CustomScrollView` , Make a scroll view with an expanding app bar, a list, and a grid by combining three slivers: SliverAppBar, SliverList, and SliverGrid.
+Imagine you are building a list of products for an e-commerce application. Each product has a name, price, and an image. Display a list of 10 products in a scrolling area. The list should be displayed in a `ListView` widget. Each item in the list should be a `Container` widget with a product name, price, and an image.
+
+> Note: For images use [Pixabay](https://pixabay.com/) or [Pexels](https://www.pexels.com/).
 
 ## Resources
 

@@ -21,6 +21,16 @@ Make a Flutter UI that shows text in a container. The container should be horizo
 
 Create a UI with the above widgets, then add a container on the body inside the scaffold and decorate it with color, border, shape, and box properties. Shadow with many more and made an attractive box for the user with center text `Good job`.
 
+### 3. Container Widget
+
+Write an article on Medium or Dev.to about the Container widget. Some topics to cover. Go in depth, don't just copy paste the documentation. Put many code examples along with screenshots and explain.
+
+- What is the Container widget?
+- How to use the Container widget?
+- When to use the Container widget?
+- Examples of the Container widget
+
+
 ## Resources
 
 While browsing resources, keep the project you're attempting to build in mind and concentrate on your requirements rather than everything in the resource. This will assist you in better understanding the concepts as well as focusing on the right things.
