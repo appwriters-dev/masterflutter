@@ -13,23 +13,11 @@ Build the following layout using `Row`, `Column`, `Padding` and `Image` widgets.
 
 ![Basic layout](/images/ch05-ls03-pr-01.png)
 
-### 2. Stack 
+### 2. Product Card
 
-After competing the above image layout on your local device, replace column with stack and experiment with the differences between column and stack. Also use `Position` widgets inside stack.
-
-### 3. Flexible 
-
-Try flexible inside a row or column and adding a child with the flex and fit properties.
-
-### 4. Expanded 
-
-Try Expanded inside a row or column and adding a child .
-
-![Expanded](/images/ch05-ls03-expanded-design-01.jpg)
+Build a product card that displays product image, title, price and rating. Use `Row`, `Column`, `Padding`, `Image` and `Icon` widgets.
 
 ### 5. Write a detailed article explaining how to use Stack or Row or Column.
-
-
 
 > **Tip**: Use `Image.network` to display your image. Don't forget to post screenshot after you are done to your social networks with hashtag #masterflutter
 

@@ -8,13 +8,13 @@ A button is made up of an icon or text (or both). When the user touches it, the 
 
 ## Projects
 
-### 1. Flat Button
+### 1. Button Layout
 
-Create a flat button with a simple text. with the two properties `child` and `onPressed ()`. Then you can use its attributes to decorate it (`colour, text size etc.`).
+Create buttons with a text and icons. with the two properties `child` and `onPressed ()`. Then you can use its attributes to decorate it (`colour, text size etc.`).
 
-### 2. Raised Button
+![Button layout](/images/ch05-ls05-btn-01.png)
 
-Create a raised button with a simple text `Raised Button`. with the two properties `child` and `onPressed ()`.
+> Note: Make sure to explore different properties of `button` widget you used . For example, you can see two type of button sample code .
 
 ```dart
 /// Try this code example on your device 
@@ -25,11 +25,6 @@ RaisedButton(
           child: Text('Raised Button'),
         ),
 ```
-
-### 3. Text Button
-
-Create a Text button with a simple text `Text Button`. with the properties `child` and `onPressed ()`,`onLongPress ()`.
-
 
 ```dart
  TextButton(
@@ -42,13 +37,6 @@ Create a Text button with a simple text `Text Button`. with the properties `chil
 },
 )
 ```
-### 4. Icon Button
-
-Make an IconButton with the Material icon "volume up" and text.
-
-### Make the UI , publish it on your github, and share it on social media.
-
-![Button layout](/images/ch05-ls05-btn-01.png)
 
 
 ## Resources
