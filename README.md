@@ -7,7 +7,7 @@ Project based action plan to master Dart and Flutter programming skills.
 5. Flutter Basics
    1. Hello Flutter
    2. The widgets (Text, Center, Container, Icon, Image)
-   3. Basic layout (Row, Column, Stack)
+   3. Basic layout (Row, Column, Stack, )
    4. Scrollable list (SingleChildScrollView, ListView) - note on overflow error
    5. Button Layout
 6. Material Design
