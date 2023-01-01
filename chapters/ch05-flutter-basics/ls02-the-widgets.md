@@ -13,11 +13,11 @@ In this lesson, we will learn about widgets, which are the fundamental building 
 
 Create a Flutter UI with text in the center of the screen. The text should be horizontally and vertically centered. 'Your Name>' should be the text.
 
-### 4. Container Text
+### 2. Container Text
 
 Make a Flutter UI that shows text in a container. The container should be horizontally and vertically centered. The container should be 200 wide and 100 tall. The container should have a blue border with a width of two. The container should be red in color. All sides of the container should have 20 padding. 'Your Name' should be the text. The text size should be 24, the text color white, and the text weight bold.
 
-### 5. Container with Decoration
+### 3. Container with Decoration
 
 Create a UI with the above widgets, then add a container on the body inside the scaffold and decorate it with color, border, shape, and box properties. Shadow with many more and made an attractive box for the user with center text `Good job`.
 

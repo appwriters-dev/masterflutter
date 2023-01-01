@@ -21,24 +21,18 @@ After competing the above image layout on your local device, replace column with
 
 Try flexible inside a row or column and adding a child with the flex and fit properties.
 
-### 3. Expanded 
+### 4. Expanded 
 
 Try Expanded inside a row or column and adding a child .
 
-### 4. Make experimental ui between Flexible and Expanded
+![Expanded](/images/ch05-ls03-expanded-design-01.jpg)
 
-Create one ui by wrapping Expanded and another by wrapping Flexible to see what the difference is between the two.
+### 5. Write a detailed article explaining how to use Stack or Row or Column.
 
-### 4. Use all widgets mention on this lesson
-
-Make a attractive page layout by using all widgets available on this lesson with `Alignment` ,`Padding` , `Container`,`SizeBox`. Complete below design and add your github publicly. 
-
-![ListView with Expanded , Flexible ](/images/ch05-ls03-Listview-design-01.jpg)
 
 
 > **Tip**: Use `Image.network` to display your image. Don't forget to post screenshot after you are done to your social networks with hashtag #masterflutter
 
-## Write a 500-word blog to summarize your practice with this lesson's widgets and layout.
 
 ## Resources
 
