@@ -3,7 +3,7 @@ id: ls04-scrolling-layout
 title: Scrolling Layout
 ---
 
-An application most of the time shows a lot of data that doesn't fit in a single screen. Especially for mobile applications where screen real state is very low. How do we deal with that? With scrolling area. In this lesson, we will practice displaying a lot of data using a scrolling layout. Two key widgets to remember for this lesson is `SingleChildScrollView` and `ListView`.
+Most applications display a large amount of data that does not fit on a single screen. Especially for mobile applications with low screen real state. What are we going to do about it? With a scrollable area. We will practice displaying a large amount of data using a scrolling layout in this lesson. 'SingleChildScrollView' and 'ListView' are two important widgets to remember for this lesson.
 
 ## Projects
 
@@ -17,6 +17,8 @@ Display a list of 100 names in a scrolling area. The list should be displayed in
 
 Display a list of 10 images in a scrolling area. The list should be displayed in a `ListView` widget. Each item in the list should be an `Image` widget with a random image. The images can be generated using the [faker](https://pub.dev/packages/faker) package.
 
+By using `SingleChildScrollView` you can create a full page design that is scrollable if the view part is still in the app. Also, try using `SingleChildScrollView` by scrolling horizontally inside the row.
+
 ### 3. Products List
 
 Imagine you are building a list of products for an e-commerce application. Each product has a name, price, and an image. Display a list of 10 products in a scrolling area. The list should be displayed in a `ListView` widget. Each item in the list should be a `Container` widget with a product name, price, and an image.
@@ -28,3 +30,6 @@ Imagine you are building a list of products for an e-commerce application. Each 
 - [SingleChildScrollView](https://api.flutter.dev/flutter/widgets/SingleChildScrollView-class.html)
 - [ListView](https://api.flutter.dev/flutter/widgets/ListView-class.html)
 - [Faker](https://pub.dev/packages/faker)
+- [GridView](https://api.flutter.dev/flutter/widgets/GridView-class.html)
+- [PageView](https://api.flutter.dev/flutter/widgets/PageView-class.html)
+- [CustomScrollView](https://api.flutter.dev/flutter/widgets/CustomScrollView-class.html)

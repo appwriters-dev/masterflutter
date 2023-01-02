@@ -3,18 +3,18 @@ id: ls06-dart-programming-review
 title: Dart Programming Review
 ---
 
-Wow, you have done it. You have learned the basics of Dart that are essential to learn Flutter. In the preceeding chapters, we have covered the following topics:
+Wow, you did it. You've mastered the fundamentals of Dart, which are required to learn Flutter. We have discussed the following topics in previous chapters:
 
-1. Basics of Dart (variables, data types, operators, control flow, collections, null safety, and functions)
-2. Object Oriented Programming (classes, objects, constructors, inheritance, and interfaces)
-3. Dependency Management (pubspec.yaml, packages, and pub.dev)
-4. Asynchronous Programming (async, await, and futures)
+1. Dart Fundamentals (variables, data types, operators, control flow, collections, null safety, and functions) ,
+2. Object Oriented Programming (OOP) (classes, objects, constructors, inheritance, and interfaces),
+3. Management of Dependency (pubspec.yaml, packages, and pub.dev),
+4. Programming Asynchronously (async, await, and futures) .
 
 ## Questions
 
-1. What is the difference between synchronous and asynchronous programming?
-2. What is the difference between a class and an object?
-3. What is sound null safety in Dart? What are the benefits of sound null safety?
+1. What exactly is the distinction between synchronous and asynchronous programming?
+2. What exactly is the distinction between a class and an object?
+3. What is Dart's sound null safety? What are the advantages of solid null safety?
 4. What does `dev_dependencies` mean in `pubspec.yaml`?
 5. What is the `pub` CLI command to install a package?
 

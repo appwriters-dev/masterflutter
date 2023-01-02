@@ -3,7 +3,7 @@ id: ls01-basic-interactivity
 title: Basic Interactivity
 ---
 
-Up until now you have been using the Stateless Widgets, thats fine until you are building static layouts. However to build dynamic layouts and add interactivity to your app, you need to use Stateful Widgets.
+Up until now you have been using the Stateless Widgets, that's fine until you are building static layouts. However to build dynamic layouts and add interactivity to your app, you need to use Stateful Widgets.
 
 ## Projects
 
@@ -49,25 +49,24 @@ class Quiz extends StatefulWidget {
 
 class _QuizState extends State<Quiz> {
   int questionNumber = 0;
-  List<Icon> scoreKeeper
+  List<Icon> scoreKeeper;
 
     @override
     Widget build(BuildContext context) {
-        Map<String, dynamic> question = {
+      Map<String, dynamic> question = {
         'question': 'Flutter stable version was launched in November 2018',
         'options': ['Yes', 'No'],
         'answer': 'No',
-        }
-    
-        return Scaffold(); // complete the UI
-    }
-```
+      };
 
-**Button Interactivity**
+      return Scaffold(); // complete the UI
+    }
+}
+```
 
 When one of the button is clicked, change the clicked buttons background color to green if the answer was correct, red otherwise.
 
-## Reosources
+## Resources
 
 - [Stateful vs Stateless Widgets](https://medium.com/flutter-community/flutter-stateful-vs-stateless-widgets-7f8a5e3d7b5b)
 - [Stateful Widgets](https://flutter.dev/docs/development/ui/interactive#stateful-widgets)

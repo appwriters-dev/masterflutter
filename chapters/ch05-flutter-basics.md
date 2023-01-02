@@ -3,6 +3,6 @@ id: ch05-flutter-basics
 title: Basics of Flutter
 ---
 
-Flutter is a framework for building modern applications. It is a cross-platform framework, meaning that it can be used to build applications for both Android, iOS, all major desktop and web. Flutter is built on the Dart programming language which we learned about and practiced in previous chapters. In the next few chapters we will learn the basics of Flutter and build many applications.
+Flutter is a modern application development framework. It is a cross-platform framework, which means it can be used to create applications for Android, iOS, and all major desktop and web platforms. Flutter is based on the Dart programming language, which we discussed and practiced in previous chapters. In the following chapters, we will learn the fundamentals of Flutter and create a number of applications.
 
-In this chapter we will learn the basics of Flutter and how to get started with Flutter framework.
+In this chapter, we'll go over the fundamentals of Flutter and how to get started with the Flutter framework.

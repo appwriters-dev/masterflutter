@@ -3,7 +3,7 @@ id: ls03-basic-layout
 title: Basic Layout
 ---
 
-In this lesson we will learn how to create a basic layout with multiple widgets. We will learn `Row`, `Column`, `Stack` wdigets and other related widgets.
+In this lesson we will learn how to create a basic layout with multiple widgets. We will learn `Row`, `Column`, `Stack` widgets and other related widgets.
 
 ## Projects
 
@@ -18,6 +18,14 @@ Build the following layout using `Row`, `Column`, `Padding` and `Image` widgets.
 ### 2. Product Card
 
 Build a product card that displays product image, title, price and rating. Use `Row`, `Column`, `Padding`, `Image` and `Icon` widgets.
+
+### 3. Write a detailed article
+Write a detailed article on one of these widgets: Stack or Row or Column. The article should inlcude the following:
+
+- What is the widget for?
+- How to use it?
+- How to use it with other widgets?
+- How to customize the widget?
 
 ## Resources
 

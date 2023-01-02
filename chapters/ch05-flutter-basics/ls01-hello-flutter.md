@@ -3,7 +3,7 @@ id: ls01-hello-flutter
 title: Hello Flutter
 ---
 
-In this first lesson we will learn to get started with Flutter framework.
+This first lesson will teach us how to get started with the Flutter framework.
 
 ## Projects
 
