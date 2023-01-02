@@ -22,9 +22,6 @@ Build a product card that displays product image, title, price and rating. Use `
 
 ### 3. Write a detailed article one of these widgets: Stack or Row or Column.
 
-> **Tip**: Use `Image.network` to display your image. Don't forget to post screenshot after you are done to your social networks with hashtag #masterflutter
-
-
 ## Resources
 
 - [Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
