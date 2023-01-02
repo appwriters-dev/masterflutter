@@ -20,7 +20,7 @@ Build the following layout using `Row`, `Column`, `Padding` and `Image` widgets.
 
 Build a product card that displays product image, title, price and rating. Use `Row`, `Column`, `Padding`, `Image` and `Icon` widgets.
 
-### 5. Write a detailed article explaining how to use Stack or Row or Column.
+### 3. Write a detailed article one of these widgets: Stack or Row or Column.
 
 > **Tip**: Use `Image.network` to display your image. Don't forget to post screenshot after you are done to your social networks with hashtag #masterflutter
 
