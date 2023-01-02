@@ -9,17 +9,19 @@ Most applications display a large amount of data that does not fit on a single s
 
 ### 1. List of Names
 
-Display a list of 100 names in a scrolling area. The list should be displayed in a `ListView` widget. Each item in the list should be a `Text` widget with a name. The names can be generated using the [faker](https://pub.dev/packages/faker) package.
+Display a list of 100 names in a scrolling area. The list should be displayed in a `Column` wrapped by `SingleChildScrollView` widget. Each item in the list should be a `Text` widget with a name. The names can be generated using the [faker](https://pub.dev/packages/faker) package.
 
-> Note: Make sure to explore different properties of `ListView` widget. For example, you can set the `scrollDirection` property to `Axis.horizontal` to display the list horizontally.
+> Note: Make sure to explore different properties of `SingleChildScrollView` widget. For example, you can set the `scrollDirection` property to `Axis.horizontal` to display the list horizontally.
 
-### 2. List of Images
+### 2. Horizontal List
+
+Update the above project to display the list horizontally using `Row` instead of `Column`.
+
+### 3. List of Images
 
 Display a list of 10 images in a scrolling area. The list should be displayed in a `ListView` widget. Each item in the list should be an `Image` widget with a random image. The images can be generated using the [faker](https://pub.dev/packages/faker) package.
 
-By using `SingleChildScrollView` you can create a full page design that is scrollable if the view part is still in the app. Also, try using `SingleChildScrollView` by scrolling horizontally inside the row.
-
-### 3. Products List
+### 4. Products List
 
 Imagine you are building a list of products for an e-commerce application. Each product has a name, price, and an image. Display a list of 10 products in a scrolling area. The list should be displayed in a `ListView` widget. Each item in the list should be a `Container` widget with a product name, price, and an image.
 
