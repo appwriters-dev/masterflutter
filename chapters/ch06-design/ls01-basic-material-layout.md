@@ -21,6 +21,8 @@ Create a new Flutter project. Open the project in VS Code. Now open the `main.da
 
 Build following layout using the Material design widgets.
 
+<!-- TODO image -->
+
 ### 3. People App
 
 Create a Flutter application that displays a list of people from a Json file. The app should have the following features:
