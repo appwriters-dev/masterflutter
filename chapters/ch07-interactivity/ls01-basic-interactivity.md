@@ -64,8 +64,6 @@ class _QuizState extends State<Quiz> {
 }
 ```
 
-**Button Interactivity**
-
 When one of the button is clicked, change the clicked buttons background color to green if the answer was correct, red otherwise.
 
 ## Resources
