@@ -21,18 +21,57 @@ Create a new Flutter project. Open the project in VS Code. Now open the `main.da
 
 Build following layout using the Material design widgets.
 
-<!-- TODO image -->
+![Simple material UI](/images/ch06-ls01-pr02.png)
+
+> Hint: Use `Container` with a linear gradient in `decoration` for the background effect. Other helpful widget will be `Card`, and `ListTile`
 
 ### 3. People App
 
-Create a Flutter application that displays a list of people from a Json file. The app should have the following features:
+Create a Flutter application that displays a list of people from the data given below.
+
+```dart
+List people = [
+  {
+    "name": "Jessica Smith",
+    "age": 27,
+    "address": "123 Main Street, Nepal",
+    "email": "jessica.smith@example.com"
+  },
+  {
+    "name": "Michael Williams",
+    "age": 35,
+    "address": "456 Park Avenue, Nepal",
+    "email": "michael.williams@example.com"
+  },
+  {
+    "name": "Sarah Johnson",
+    "age": 29,
+    "address": "789 Maple Street, Nepal",
+    "email": "sarah.johnson@example.com"
+  },
+  {
+    "name": "Jason Thompson",
+    "age": 41,
+    "address": "321 Oak Street, Nepal",
+    "email": "jason.thompson@example.com"
+  },
+  {
+    "name": "Amanda Davis",
+    "age": 22,
+    "address": "159 Pine Street, Nepal",
+    "email": "amanda.davis@example.com"
+  }
+];
+```
+
+The app should have the following features:
 
 1. The app should have a `Scaffold` widget as the root widget.
 2. The app should have an `AppBar` widget at the top of the screen.
 3. The app should have a `FloatingActionButton` widget at the bottom right of the screen.
 4. The app should have a `BottomNavigationBar` widget at the bottom of the screen.
 5. The app should have a `ListView` widget that displays the list of people.
-7. The app should have a `Card` widget that displays the details of a person.
+6. The app should have a `Card` widget that displays the details of a person.
 
 ### 4. Material Widgets
 
@@ -52,3 +91,6 @@ Publish the article on medium or dev.to and share the link in your social media.
 4. [AppBar](https://api.flutter.dev/flutter/material/AppBar-class.html)
 5. [FloatingActionButton](https://api.flutter.dev/flutter/material/FloatingActionButton-class.html)
 6. [BottomNavigationBar](https://api.flutter.dev/flutter/material/BottomNavigationBar-class.html)
+7. [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
+8. [Card](https://api.flutter.dev/flutter/material/Card-class.html)
+9. [LinearGradient](https://api.flutter.dev/flutter/painting/LinearGradient-class.html)
