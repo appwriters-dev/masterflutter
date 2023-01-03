@@ -13,9 +13,15 @@ Create a new Flutter project and add two custom fonts to it. Use the fonts to di
 
 > Hint: You can download free fonts from [Google Fonts](https://fonts.google.com)
 
-### 2. Google Fonts
+### 2. Font in Themes
 
-There is also a [Google Fonts](https://pub.dev/packages/google_fonts) package that provides a lot of fonts. Refactor above program to use this package instead of adding fonts to assets.
+Create a new Flutter project and add two custom fonts to it. Update the theme of the app so that headlines uses one of the two fonts and body text uses the another font. Then build a simple layout that has a headline and a article.
+
+### 3. Quotes App
+
+Build the following UI that displays quotes from famous people. The quote and author name should use different fonts.
+
+![Quotes UI](/images/ch08-ls02-pr03.png)
 
 ## Resources
 
