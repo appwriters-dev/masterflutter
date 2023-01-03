@@ -13,6 +13,10 @@ Build a Welcome UI that has two buttons that says Login and Signup. When Login b
 
 > Note: Separate the UI logic into different widgets and use them in the main widget.
 
+### 2. Profile Data Dialog
+
+Update the **Profile Form** project from previous lesson, so that when the user presses the **Continue** button, a dialog is shown with all the data entered by the user. The dialog should have a **Close** button that closes the dialog.
+
 ## Resources
 
 - [Flutter Dialogs](https://flutter.dev/docs/cookbook/design/dialogs)
