@@ -3,7 +3,7 @@ id: ls01-basic-interactivity
 title: Basic Interactivity
 ---
 
-Up until now you have been using the Stateless Widgets, that's fine until you are building static layouts. However to build dynamic layouts and add interactivity to your app, you need to use Stateful Widgets.
+You've been using Stateless Widgets up until now, which is fine unless you're creating static layouts. However, in order to create dynamic layouts and add interactivity to your app, you must use Stateful Widgets.
 
 ## Projects
 
@@ -64,7 +64,7 @@ class _QuizState extends State<Quiz> {
 }
 ```
 
-When one of the button is clicked, change the clicked buttons background color to green if the answer was correct, red otherwise.
+When one of the buttons is clicked, change the background color of the clicked button to green if the answer was correct and red otherwise.
 
 ## Resources
 

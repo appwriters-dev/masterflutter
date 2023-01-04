@@ -3,7 +3,7 @@ id: ls03-other-files
 title: Other Files
 ---
 
-In assets we can add other files like a JSON file with our own data, our own custom files specific to our project, or even a PDF file. We can add any file we want to our assets folder.
+Other files, such as a JSON file containing our own data, custom files specific to our project, or even a PDF file, can be added to assets. We can place any file in our assets folder.
 
 ## Projects
 
