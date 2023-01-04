@@ -15,7 +15,9 @@ Build a Flutter App with two page, one for login and one for home. Login page sh
 
 ### 2. Shopping Cart
 
-Build a Flutter where the home page displays a list of products with name, image, price and add to cart Icon button. Once the add to cart is clicked, it should add the product to the cart (a list of products maintained using stateful widget). Display floating action button with cart icon and tapping that should navigate to the cart page. The cart page should display the list of products added to the cart as well as the sum total of the price of all the products at the bottom.
+Build a Flutter where the home page displays a list of products with name, image, price and add to cart Icon button and a TextButton with `Cancel` . Once the add to cart is clicked, it should add the product to the cart (a list of products maintained using stateful widget). Display floating action button with cart icon and tapping that should navigate to the cart page. The cart page should display the list of products added to the cart as well as the sum total of the price of all the products at the bottom.
+
+> Pass `Navigator.pop()` on the onPress function of the TextButton of `Cancel` text and remember if user tap `Cancel` product is not selected any more .
 
 ## Resources
 

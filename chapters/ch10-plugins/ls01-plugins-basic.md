@@ -7,7 +7,7 @@ title: Basic of Plugins
 
 ### 1. Note Taking App [Part 1]
 
-Write a Flutter program that provides a multiline text field and a save button. Whenever user press the save button, anything written in the text box should be saved to a file in the device's application's documents folder.
+Write a Flutter program that provides a multiline text field and a save button and cancel button . Whenever user press the save button, anything written in the text box should be saved to a file and if user press cancel text box should be empty in the device's application's documents folder.
 
 > Note: use `getApplicationDocumentsDirectory();` from [path_provider](https://pub.dev/packages/path_provider) to get the application folder path. Use `File` class from [dart:io](https://api.flutter.dev/flutter/dart-io/dart-io-library.html) to write to the file.
 
