@@ -75,13 +75,13 @@ The app should have the following features:
 
 ### 4. Material Widgets
 
-Write an article covering any two of the material widgets that we have learned about in this lesson. The article should include the following:
+Write an article about any two of the material widgets we discussed in this lesson. The following information should be included in the article:
 
 1. A brief introduction to the widget.
 2. Code snippets showing how to use the widget.
 3. Screenshot of the app that uses the widget.
 
-Publish the article on medium or dev.to and share the link in your social media.
+Publish the article on Medium or Dev.to and share the link via social media.
 
 ## Resources
 

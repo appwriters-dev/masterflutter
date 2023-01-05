@@ -3,7 +3,7 @@ id: ls02-forms
 title: Forms
 ---
 
-Forms are the most common way to collect user input.
+Forms are the most commonly used method for gathering user input.
 
 ## Projects
 

@@ -3,7 +3,7 @@ id: ls01-images
 title: Images
 ---
 
-Images are one of the widely used assets in mobile applications. We will learn how to include images with our application and use them in UI.
+Images are a common type of asset in mobile applications. We will learn how to include images in our application and use them in the user interface.
 
 ## Projects
 
