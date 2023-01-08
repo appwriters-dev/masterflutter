@@ -13,7 +13,9 @@ Create a new Flutter project. Update the theme so that scaffold background color
 
 ### 2. Text Theme
 
-Use [Google Fonts](https://pub.dev/packages/google_fonts) package to add a new font to your application. Update the theme of your App so that the all the headlines uses `Intra` font where as body text uses `Open Sans`.
+Create a new Flutter project. Update the `AppBar` theme so that the background color is `indigo`. Also update AppBar title text style so that font size is `20` and weight is `bold`.  Update the text theme of the application so that body text size is `16` and `headline1` to `headline6` sizes are `28, 26, 24, 22, 20, 18` respectively.
+
+Finally, create a simple home page with AppBar and multiple text widget in body that uses style from headline 1 to 6 and also normal body text.
 
 
 ## Resources
