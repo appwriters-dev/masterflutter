@@ -17,6 +17,21 @@ Create a UI that displays your business card along with your photo. Your photo s
 
 Refactor dice app from previous chapter to use the image of Dice instead of the number.
 
+> **Note:** It's a good practice to keep all the asset names as a constant by creating a class. This will help you to avoid typos and make it easier to change the asset name in the future.
+
+For example:
+    
+```dart
+    class Assets {
+      static const String dice1 = 'assets/images/dice1.png';
+      static const String dice2 = 'assets/images/dice2.png';
+      static const String dice3 = 'assets/images/dice3.png';
+      static const String dice4 = 'assets/images/dice4.png';
+      static const String dice5 = 'assets/images/dice5.png';
+      static const String dice6 = 'assets/images/dice6.png';
+    }
+```
+
 ## Resources
 
 - [Image Widget](https://api.flutter.dev/flutter/widgets/Image-class.html)

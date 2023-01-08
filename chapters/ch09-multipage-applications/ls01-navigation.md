@@ -20,6 +20,15 @@ Create a new Flutter project. Add a new widget in `lib/second.dart` that has Sca
 
 Modify the previous project to use named routes. Use `MaterialApp`'s `routes` property to define the routes. The default page should navigate to the second page using the name `second`.
 
+Just like with assets, it's always a good practice to keep the route name constants as a class instead of using string everywhere.
+
+```dart
+class RouteNames {
+    static const String second = 'second';
+    static ocnst String home = 'home';
+}
+```
+
 ## Resources
 
 - [Navigation and Routing](https://flutter.dev/docs/development/ui/navigation)
