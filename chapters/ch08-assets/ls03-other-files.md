@@ -84,4 +84,4 @@ Plot the height and weight of the users in a line chart.
 
 - [Flutter assets and images](https://flutter.dev/docs/development/ui/assets-and-images)
 - [JSON and serialization](https://flutter.dev/docs/development/data-and-backend/json)
-- [FL Chart](https://pub.dev/packages/fl_chart)]
+- [FL Chart](https://pub.dev/packages/fl_chart)
