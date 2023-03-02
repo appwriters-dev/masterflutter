@@ -58,6 +58,7 @@ Create a JSON representation of a your friend. The JSON should include the follo
 ## Resources
 
 - [REST API Tutorial](https://www.restapitutorial.com/)
+- [Rest API with Examples](https://nerdleveltech.com/a-full-guide-understand-everything-about-apis-with-examples/)
 - [What is REST API?](https://www.codecademy.com/articles/what-is-rest)
 - [What is REST API?](https://www.youtube.com/watch?v=7YcW25PHnAA)
 - [What is REST API?](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
