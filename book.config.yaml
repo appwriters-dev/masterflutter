@@ -1,0 +1,148 @@
+id: "master-flutter"
+title: "Master Flutter"
+description: "Master Flutter is your ultimate guide to learning Dart and Flutter through practical projects and comprehensive resources. Our project-based approach covers everything from Dart language to creating beautiful user interfaces and working with packages, plugins and APIs."
+author: "Damodar Lohani, Ambika Dulal"
+version: "1.0.0"
+theme: "flutter"
+
+# Features enabled for this book
+features:
+  - "search"
+  - "progress-tracking"
+  - "dark-mode"
+  - "print-friendly"
+  - "project-tracker"
+  - "code-playground"
+
+# Navigation configuration
+navigation:
+  style: "sidebar"
+  collapsible: true
+  showProgressBar: true
+  showProjectCounter: true
+
+# Book assets
+assets:
+  favicon: "master-flutter.png"
+  logo: "master-flutter.png"
+  ogImage: "master-flutter.png"
+
+# SEO configuration
+seo:
+  sitemap: true
+  robots: true
+  gtag: ""
+  keywords: 
+    - "Flutter"
+    - "Dart"
+    - "Mobile Development"
+    - "Cross-platform"
+    - "Programming"
+    - "Tutorial"
+
+# Homepage content
+homePageTitle: "Learn Effective.<br />Master Dart & Flutter.<br />Become Flutter Developer"
+homePageDescription: "Follow this guide to master your Dart & Flutter skill. This self-paced guide will provide you will all the action and resources to become a skilled Flutter developer. This will be a project based, self-taught learning approach."
+homePageMetaDescription: "Welcome to Master Flutter - Your ultimate guide to learning Dart and Flutter through practical projects and comprehensive resources. Our project-based approach covers everything from Dart language to creating beautiful user interfaces and working with packages, plugins and APIs. Start mastering Flutter today!"
+
+# Color theme for Flutter book
+colors:
+  primary: "#0175C2"      # Flutter blue
+  secondary: "#13B9FD"    # Flutter light blue
+  accent: "#54C5F8"       # Flutter accent
+  success: "#4CAF50"      # Green for completed projects
+  warning: "#FF9800"      # Orange for in-progress
+  error: "#F44336"        # Red for issues
+
+# Book-specific configuration
+learning:
+  approach: "project-based"
+  difficulty: "beginner-to-advanced"
+  estimatedHours: 120
+  prerequisites:
+    - "Basic programming knowledge (helpful but not required)"
+    - "Computer with internet connection"
+    - "Willingness to learn and practice"
+
+# Project tracking
+projects:
+  trackingEnabled: true
+  categories:
+    - "Dart Basics"
+    - "OOP Concepts"
+    - "Flutter UI"
+    - "State Management"
+    - "API Integration"
+    - "Plugins & Packages"
+    - "Complete Applications"
+
+# Learning path structure
+chapters:
+  - id: "ch01-the-dart-basics"
+    title: "The Dart Basics"
+    description: "Start with the basics of Dart programming language"
+    estimatedHours: 20
+    difficulty: "beginner"
+  - id: "ch02-object-oriented-programming"
+    title: "Object-Oriented Programming"
+    description: "Learn OOP concepts in Dart"
+    estimatedHours: 15
+    difficulty: "beginner"
+  - id: "ch03-dependency-management"
+    title: "Dependency Management"
+    description: "Master Dart package management with pub"
+    estimatedHours: 8
+    difficulty: "beginner"
+  - id: "ch04-asynchronous-programming-rest-api-and-json"
+    title: "Async Programming, REST API & JSON"
+    description: "Handle asynchronous operations and web APIs"
+    estimatedHours: 18
+    difficulty: "intermediate"
+  - id: "ch05-flutter-basics"
+    title: "Flutter Basics"
+    description: "Get started with Flutter framework"
+    estimatedHours: 15
+    difficulty: "beginner"
+  - id: "ch06-design"
+    title: "Design & UI"
+    description: "Create beautiful user interfaces"
+    estimatedHours: 20
+    difficulty: "intermediate"
+  - id: "ch07-interactivity"
+    title: "Interactivity"
+    description: "Add user interactions and state management"
+    estimatedHours: 12
+    difficulty: "intermediate"
+  - id: "ch08-assets"
+    title: "Assets"
+    description: "Work with images, fonts, and other assets"
+    estimatedHours: 8
+    difficulty: "beginner"
+  - id: "ch09-multipage-applications"
+    title: "Multi-page Applications"
+    description: "Build navigation and routing"
+    estimatedHours: 10
+    difficulty: "intermediate"
+  - id: "ch10-plugins"
+    title: "Plugins"
+    description: "Integrate third-party plugins and platform features"
+    estimatedHours: 14
+    difficulty: "advanced"
+
+# External resources
+resources:
+  official:
+    - name: "Flutter Documentation"
+      url: "https://flutter.dev/docs"
+    - name: "Dart Language Tour"
+      url: "https://dart.dev/guides/language/language-tour"
+  community:
+    - name: "Flutter Community"
+      url: "https://flutter.dev/community"
+    - name: "Dart Packages"
+      url: "https://pub.dev"
+  tools:
+    - name: "DartPad"
+      url: "https://dartpad.dev"
+    - name: "VS Code Flutter Extension"
+      url: "https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter"
