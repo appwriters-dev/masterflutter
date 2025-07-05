@@ -32,13 +32,62 @@ seo:
   sitemap: true
   robots: true
   gtag: ""
-  keywords: 
+  keywords:
     - "Flutter"
     - "Dart"
     - "Mobile Development"
     - "Cross-platform"
     - "Programming"
     - "Tutorial"
+    - "Flutter for beginners"
+    - "Beginner Flutter tutorial"
+    - "Master flutter"
+    - "Advance flutter"
+    - "Advance flutter tutorials"
+    - "Flutter Framework"
+    - "Dart Programming"
+    - "Mobile App Development"
+    - "iOS Development"
+    - "Android Development"
+    - "Cross-platform Framework"
+    - "UI Development"
+    - "Mobile UI"
+    - "Flutter Widgets"
+    - "Flutter Tutorial"
+    - "Learn Flutter"
+    - "Flutter Guide"
+    - "Flutter Course"
+    - "Mobile Programming"
+  canonicalUrl: "https://flutterforbeginner.com"
+  structuredData:
+    type: "Course"
+    organization: "Master Flutter"
+    publisher: "Damodar Lohani"
+    datePublished: "2023-01-01"
+    dateModified: "2024-12-01"
+    inLanguage: "en-US"
+    audience: "Developers, Mobile App Developers, Flutter Developers"
+  openGraph:
+    type: "book"
+    siteName: "Master Flutter"
+    locale: "en_US"
+    image:
+      url: "https://flutterforbeginner.com/og-master-flutter.png"
+      width: 1200
+      height: 630
+      alt: "Master Flutter - Complete Guide to Dart and Flutter Development"
+  twitter:
+    card: "summary_large_image"
+    site: "@masterflutter"
+    creator: "@damordl"
+  metaTags:
+    viewport: "width=device-width, initial-scale=1, viewport-fit=cover"
+    themeColor: "#0175C2"
+    appleMobileWebAppCapable: "yes"
+    appleMobileWebAppStatusBarStyle: "default"
+    appleMobileWebAppTitle: "Master Flutter"
+    msApplicationTileColor: "#0175C2"
+    msApplicationTileImage: "/master-flutter.png"
 
 # Homepage content
 homePageTitle: "Learn Effective.<br />Master Dart & Flutter.<br />Become Flutter Developer"
@@ -48,6 +97,21 @@ homePageMetaDescription: "Welcome to Master Flutter - Your ultimate guide to lea
 # Color theme for Flutter book
 colors:
   primary: "#0175C2"      # Flutter blue
+  secondary: "#02569B"    # Darker Flutter blue
+  accent: "#40C4FF"       # Flutter light blue
+  success: "#4CAF50"      # Green
+  warning: "#FF9800"      # Orange
+  error: "#F44336"        # Red
+
+# Learning path configuration
+learning:
+  approach: "project-based"
+  difficulty: "beginner-to-advanced"
+  estimatedHours: 80
+  prerequisites:
+    - "Basic understanding of programming concepts"
+    - "Familiarity with object-oriented programming"
+    - "Basic knowledge of mobile app development (helpful but not required)"
   secondary: "#13B9FD"    # Flutter light blue
   accent: "#54C5F8"       # Flutter accent
   success: "#4CAF50"      # Green for completed projects
